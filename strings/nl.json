@@ -1,0 +1,17 @@
+{
+    "about_title_repository": "Broncode-repo",
+    "about_title_privacy_statement": "Privacyverklaring",
+    "privacy_html": "<p>Aha, iemand die om zijn privacy geeft, leuk! Ik heb alleen maar goed nieuws voor je:</p>\n<p><b>Directe Bijdrages</b></p>\n<p>\nEerst en vooral, met deze app kun je daadwerkelijk en meteen bijdragen aan OpenStreetMap.<br/>\nAlles wat je in deze app bijdraagt, wordt meteen toegevoegd aan de kaart, er zit geen derde partij tussen de app en OSM.\n</p>\n<p>\nOpenStreetMap anoniem bewerken is niet mogelijk; alle aanpassingen die je doet worden met je OSM-gebruikersaccount gemaakt. Dit betekent dat de datum, inhoud en locatie van je veranderingen openbaar zijn op de OpenStreetMap-website, en zijn te koppelen aan jouw account.\n</p>\n\n<b>Locatie</b><br/>\n<p>\nDe app deelt je GPS-locatie met niemand. Je locatie wordt alleen gebruikt om naar vragen te scannen bij jou in de buurt en om de kaart te centreren op je locatie.\n</p>\n\n<p><b>Datagebruik</b></p>\n<p>\nVoor het uploaden van je wijzigingen zal de app een <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">simpel tekstbestand</a> op mijn server controleren om te bepalen of de app-versie is uitgesloten van het uploaden van wijzigingen. Dit om te voorkomen dat bepaalde versies van de app met kritische bugs de OSM-gegevens zouden kunnen verknoeien.</p>",
+    "store_listing_short_description": "OpenStreetMap veldwerk-app",
+    "store_listing_full_description": "Help OpenStreetMap te verbeteren met StreetComplete!\n\nDeze app vindt onvolledige data in jouw omgeving, en toont deze op de kaart als een marker. Elke onvolledigheid is op te lossen door een simpele vraag te beantwoorden, en zo de info op de kaart aan te vullen.\n\nDe informatie die je ingeeft wordt meteen toegevoegd aan OpenStreetMap onder jouw naam, zonder een andere editor te hoeven gebruiken.",
+    "privacy_html_third_party_quest_sources": "<p>Voor sommige vragen wordt er extra informatie van derde partijen gedownload. Dit gaat om de 'eenrichtingsverkeer'-vraag, die op westnordost.de mogelijke kandidaten gaat ophalen.</p>",
+    "privacy_html_image_upload2": "<p>Foto's die je aan een notitie toevoegt, worden naar mijn server geüpload en enkele dagen nadat deze notitie is verwerkt, verwijderd. De metagegevens worden verwijderd voordat ze worden geüpload.</p>",
+    "title_whats_new": "Wat is er nieuw?",
+    "about_title_donate": "Doneer",
+    "about_summary_donate": "Toon je waardering! ❤️",
+    "action_about2": "Over",
+    "privacy_html_statistics": "<p>De gegevens die in je profiel worden weergegeven, worden samengevoegd uit je publiek beschikbare bijdragegeschiedenis aan OpenStreetMap en vervolgens gehost op mijn server.</p>",
+    "privacy_html_tileserver2": "<p>Om de kaart weer te geven, worden vectortegels opgehaald uit %1$s. Zie hun <a href=\"%2$s\">privacy-verklaring</a> voor meer informatie.</p>",
+    "about_title_translate": "Help deze app te vertalen",
+    "about_title_faq": "Veelgestelde vragen"
+}

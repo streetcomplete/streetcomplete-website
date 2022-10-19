@@ -1,0 +1,17 @@
+{
+    "about_title_repository": "Repositório do código-fonte",
+    "about_title_privacy_statement": "Declaração de privacidade",
+    "privacy_html": "<p>Ora, alguém que se preocupa com a privacidade, ótimo! Acredito que só tenho boas notícias para você: </p>\n<p><b>Contribuições diretas</b></p>\n<p>\nPrimeiramente, compreenda que com este aplicativo, você faz contribuições reais e diretas para o OpenStreetMap.<br/>\nTudo o que você contribui neste aplicativo é adicionado diretamente ao mapa, não há terceiros entre o aplicativo e a infraestrutura do OSM.\n</p>\n<p>\nA edição do OpenStreetMap anonimamente não é possível, portanto quaisquer alterações são feitas com a conta de usuário do OSM. Isso significa que a data, o conteúdo e implicitamente a localização das alterações são visíveis publicamente no site do openstreetmap e são atribuíveis à sua conta.\n</p>\n\n<b>Localização</b><br/>\n<p>\nO app não compartilha sua localização GPS com ninguém.  A sua localização só é usada para procurar automaticamente missões na sua área e carregar o mapa ao seu redor.\n</p>\n\n<p><b>Uso de dados</b></p>\n<p>\nComo mencionado, o aplicativo se comunica diretamente com a infraestrutura do OSM. No entanto, antes de carregar suas alterações, o app verifica com um <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">arquivo de texto simples</a> no meu servidor se ele foi banido de enviar alterações. Esta é uma medida de precaução para ser capaz de manter versões do aplicativo que acabam por ter bugs críticos de possivelmente corrompendo dados do OSM.<br/>\n</p>",
+    "store_listing_short_description": "Aplicativo topógrafo para OpenStreetMap",
+    "store_listing_full_description": "Ajude a melhorar o OpenStreetMap com StreetComplete!\n\nEste aplicativo encontra dados incompletos e extensíveis em sua vizinhança e os exibe em um mapa como marcadores. Cada um deles pode ser resolvido respondendo a uma simples pergunta para completar a informação no site.\n\nAs informações inseridas são adicionadas diretamente ao OpenStreetMap em seu nome, sem a necessidade de usar outro editor.",
+    "privacy_html_third_party_quest_sources": "<p>Para algumas missões, dados adicionais de terceiros são baixados.  Em especial, para as missões de mão única são baixados dados sobre o potenciais candidatos também do westnordost.de.</p>",
+    "privacy_html_image_upload2": "<p>As fotos que você anexar a uma nota são enviadas para o meu servidor e excluídas após a nota ser resolvida. Os metadados são removidos antes do envio.</p>",
+    "title_whats_new": "Novidades",
+    "about_title_donate": "Fazer doação",
+    "about_summary_donate": "Mostre o seu apreço! ❤️",
+    "action_about2": "Sobre",
+    "privacy_html_statistics": "<p>Os dados mostrados no seu perfil são agregados do seu histórico de contribuições publicamente disponíveis ao OpenStreetMap e, em seguida, hospedados no meu servidor.</p>",
+    "privacy_html_tileserver2": "<p> Para exibir o mapa, os blocos de vetor são recuperados de %1$s. Veja a<a href=\"%2$s\">privacidade></a>para obter mais informações.</p>",
+    "about_title_translate": "Ajude a traduzir",
+    "about_title_faq": "Perguntas frequentes"
+}

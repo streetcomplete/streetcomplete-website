@@ -1,0 +1,17 @@
+{
+    "about_title_repository": "Zdrojový kód",
+    "about_title_privacy_statement": "Prohlášení o ochraně soukromí",
+    "privacy_html": "<p>Á, někdo, kdo se zajímá o soukromí, paráda! Myslím, že pro vás máme jen dobré zprávy:</p>\n<p><b>Přímé přispívání</b></p>\n<p>\nNejdříve musíte vědět, že pomocí této aplikace skutečně a přímo přispíváte do OpenStreetMap.<br/>\nCokoliv, čím pomocí této aplikace přispějete, bude přímo přidáno do mapy bez toho, aby byla mezi aplikací a OSM nějaká třetí strana.\n</p>\n<p>\nOpenStreetMap nelze upravovat anonymně, proto jsou všechny vaše změny provedené s vaším uživatelským účtem na OSM. To znamená, že datum, obsah a poloha vašich změn jsou veřejně viditelné na webu openstreetmap a propojené s vaším účtem.\n</p>\n\n<b>Poloha</b><br/>\n<p>\nAplikace s nikým nesdílí vaši GPS polohu. Vaše poloha se používá jen pro automatické vyhledávání „úkolů“ ve vašem okolí a pro vycentrování mapy (a její stahování) na základě vaší polohy. \n</p>\n\n<p><b>Použití dat</b></p>\n<p>\nNicméně před nahráním vašich změn aplikace zkontroluje pomocí <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">jednoduchého textového souboru</a> na mém serveru, jestli jí nebylo zakázáno nahrávání změn. To je preventivní opatření zabraňující verzím aplikace, ve kterých by mohli být kritické chyby, aby poškodili OSM data.<br/>\n</p>",
+    "store_listing_short_description": "Aplikace pro OpenStreetMap topografy v češtině",
+    "store_listing_full_description": "Se StreetComplete můžete pomoci vylepšit mapové podklady OpenStreetMap!\n\nTato aplikace vyhledá data ve Vašem okolí, která nejsou kompletní, a která lze rozšířit a zobrazí je na mapě jako „úkoly“. Každý z těchto „úkolů“ lze snadno vyřešit na místě odpovědí na jednoduchou otázku a doplnit tak informace do mapy.\n\nVámi vložené informace jsou potom Vaším jménem přímo přidány do OpenStreetMap bez toho, aniž byste museli použít další editor. ( Pro nahrání Vašich odpovědí na server je nutné mít OpenStreetMap účet )\n\nStreetComplete je plně přeložená do češtiny a je vyvíjena s důrazem na to, aby se jednoduše používala a aby do OSM mohl přispívat opravdu každý.",
+    "privacy_html_third_party_quest_sources": "<p>Pro některé úkoly se stahují i další data ze třetích stran. Např. úkol týkající se jednosměrek se dotazuje rozhraní API, uloženého na westnordost.de, na pravděpodobné kandidáty na jednosměrky.</p>\n",
+    "privacy_html_image_upload2": "<p>Fotografie připojené k poznámce jsou nahrané na můj server a smazány několik dnů po vyřešení poznámky. Metadata fotografií jsou odstraněna před jejich nahráním.</p>",
+    "title_whats_new": "Co je nového?",
+    "about_title_donate": "Přispět",
+    "about_summary_donate": "Ukažte své uznání! ❤️\n",
+    "action_about2": "O aplikaci",
+    "privacy_html_statistics": "<p>Data zobrazená ve vašem profilu jsou získaná z vaší veřejně dostupné historie přispěvatele do OpenStreetMap a následně hostovaná na mém serveru.</p>",
+    "privacy_html_tileserver2": "<p>Pro zobrazení mapy musí být staženy vektorové dlaždice z %1$s. Pro další informace se podívejte na jejich <a href=\"%2$s\">prohlášení o ochraně soukromí</a> .</p>\n",
+    "about_title_translate": "Pomozte přeložit tuto aplikaci",
+    "about_title_faq": "FAQ"
+}

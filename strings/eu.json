@@ -1,0 +1,17 @@
+{
+    "about_title_repository": "Iturburu-kodearen biltegia",
+    "about_title_privacy_statement": "Pribatutasun adierazpena",
+    "privacy_html": "Pribatutasunaz arduratzen den norbait, ondo! Berri onak ditut zuretzat: </p>\n<p><b>Ekarpen zuzenak</b></p>\n<p>\nHasteko, ulertu aplikazio honekin egiazko ekarpen zuzenak egiten dituzula OpenStreetMap-en.<br/>\nAplikazio honetan egiten dituzun ekarpenak zuzenean mapara gehituko dira, ez dago inor zu eta OSM azpiegituraren artean.\n</p>\n<p>\nEzin da OpenStreetMap era anonimoan editatu, OSMra egiten dituzu aldaketa guztiak zure kontuarekin egiten dira. Honek esan nahi du data, edukia eta kokaleku inplizitua OpenStreetMap webgunean ikusgai daudela zure kontuari lotuta.\n</p>\n\n<b>Kokalekua</b><br/>\n<p>\nKokalekua inguruko erronkak automatikoki bilatzeko erabiltzen da, aplikazioak ez dio inori esaten.\n</p>\n\n<p><b>Datuen erabilera</b></p>\n<p>\nHala ere, zure aldaketak igo aurretik, aplikazioak nire zerbitzariko <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">testu soileko fitxategi</a> batean aldaketak igotzea debekatu zaion egiaztatzen du. Hau badaezpadako neurri bat da arazo larriak dituztelako OSM datuak zapuzteko arriskua duten bertsioak kanpo uzteko. <br/>\n</p>",
+    "store_listing_short_description": "OpenStreetMap ikuskatze aplikazioa",
+    "store_listing_full_description": "Lagundu OpenStreetMap osatzen StreetComplete erabilita!\n\nAplikazio honek zure inguruan osatu gabeko edo hobetu daitezkeen datuak bilatzen ditu eta mapan adierazten ditu. Hauetako bakoitza galdera erraz bati erantzunez bete dezakezun erronka bat da.\n\nSartzen duzun informazioa zuzenean OpenStreetMap proiektura gehitzen da zure izenean, beste editore baten beharrik gabe.",
+    "privacy_html_third_party_quest_sources": "<p>Erronka batzuetarako, hirugarrengoen datu gehigarriak deskargatzen da. Hain zuzen, norabide bakarraren erronkarako, bide bakarrekoak izateko aukera handiena duten bideak zeintzu diren westnordost.de helbidean ostatatutako API bati galdetzen zaio</p>",
+    "privacy_html_image_upload2": "<p>Ohar batetara gehitzen dituzun argazkiak nire zerbitzarira igotzen dira eta oharra ebatzi eta egun batzuetara ezabatzen dira. Igo aurretik metadatuak kentzen zaizkie.</p>",
+    "title_whats_new": "Zer dago berri?",
+    "about_title_donate": "Dohaintza",
+    "about_summary_donate": "Erakutsi zure babesa! ❤️",
+    "action_about2": "Honi buruz",
+    "privacy_html_statistics": "<p>Zure profilean erakusten diren datuak zure OpenStreetMap-eko aportazioen informazio publikoa hartuta prozesatutakoak dira, gero nire zerbitzarian ostatatuta.</p>",
+    "privacy_html_tileserver2": "<p>Mapa bistaratzeko, lauza bektorialak %1$s-tik berreskuratzen dira. Informazio gehiago lortzeko, ikusi haien <a href=\"%2$s\"> pribatutasun-adierazpena </a>. </p>",
+    "about_title_translate": "Lagundu app hau itzultzen",
+    "about_title_faq": "FAQ"
+}

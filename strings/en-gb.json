@@ -1,0 +1,17 @@
+{
+    "about_title_repository": "Project Home",
+    "about_title_privacy_statement": "Privacy statement",
+    "privacy_html": "<p>Ah, someone who cares about privacy, nice! I think I have only good news for you:</p>\n<p><b>Direct Contributions</b></p>\n<p>\nFirst off, understand that with this app, you make actual and direct contributions to OpenStreetMap (OSM).<br/>\nAnything you contribute in this app is directly added to the map, there is no third party in-between the app and OSM infrastructure.\n</p>\n<p>\nEditing OpenStreetMap anonymously is not possible. Any changes you make (and their date and location) are attributed to your OSM user account and publicly visible on the openstreetmap.org website. Because StreetComplete should only be used for on-site survey, this reveals where and when you have used the app.\n</p>\n\n<b>Location</b><br/>\n<p>\nThe app does not share your GPS location with anyone. It is used to automatically scan for and download quests around you, and position the map at your location.\n</p>\n\n<p><b>Data Usage</b></p>\n<p>\nThis app directly communicates with OSM servers.<br/>\nBefore uploading your changes, the app checks with a <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">simple text file</a> on my server to ensure that this version of the app has not been banned from uploading changes. This is a precautionary measure to be able to block versions of the app that turn out to have critical bugs from uploading corrupted data to OSM.</p>",
+    "store_listing_short_description": "OpenStreetMap surveyor app",
+    "store_listing_full_description": "Help improve OpenStreetMap with StreetComplete!\n\nThis app finds missing map data in your vicinity and displays it on a map as quests. Solve each quest by visiting the location on-site and answering a simple question to update the map.\n\nThe info you enter is directly added to OpenStreetMap in your name, without the need to use another editor.",
+    "privacy_html_third_party_quest_sources": "<p>For some quests, some additional data from third parties is downloaded. In particular, the oneway quest queries an API, also hosted on westnordost.de, about likely candidates for oneways.</p>",
+    "privacy_html_image_upload2": "<p>Photos you attach to a note are uploaded to my server and deleted some days after that note has been resolved. Their meta-data is stripped before upload.</p>",
+    "title_whats_new": "What’s New?",
+    "about_title_donate": "Donate",
+    "about_summary_donate": "Show your appreciation! ❤️",
+    "action_about2": "About",
+    "privacy_html_statistics": "<p>The data shown in your profile is aggregated from your publicly available contribution history to OpenStreetMap and then hosted on my server.</p>",
+    "privacy_html_tileserver2": "<p>To display the map, vector tiles are retrieved from %1$s. See their <a href=\"%2$s\">privacy statement</a> for more information.</p>",
+    "about_title_translate": "Help translate this app",
+    "about_title_faq": "FAQ"
+}

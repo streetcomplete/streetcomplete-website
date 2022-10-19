@@ -1,0 +1,17 @@
+{
+    "about_title_repository": "Domov projektu",
+    "about_title_privacy_statement": "Vyhlásenie o ochrane súkromia",
+    "privacy_html": "<p>Á, niekto kto sa zaujíma o súkromie, paráda! Myslím, že máme pre Vás iba dobre správy:</p>\n<p><b>Priame príspevky</b></p>\n<p>\nHlavné je uvedomiť si, že pomocou tejto aplikácie skutočne a priamo prispievate do OpenStreetMap.<br/>\nČokoľvek čím prispejete pomocou tejto aplikácie bude pridané do mapy bez toho, aby medzi aplikáciou a OSM infraštruktúrou bola tretia strana.\n</p>\n<p>\nOpenStreetMap nie je možné upravovať anonyne, preto sa všetky zmeny, ktoré urobíte vykonajú pod Vaším OSM účtom. To znamená, že dátum, obsah a implicitné umiestnenie Vašich zmien sú verejne viditeľné na stránke openstreetmap a sú prepojiteľné s Vašim účtom.\n</p>\n\n<b>Poloha</b><br/>\n<p>\nVaša poloha sa používa iba pre automatické vyhľadávanie úloh vo Vašej blízkosti a pre stiahnutie mapy okolia. Bez obáv, aplikácia si necháva Vašu polohu iba pre seba.\n</p>\n\n<p><b>Použitie dát</b></p>\n<p>\nAko už bolo spomenuté, aplikácia priamo komunikuje s OSM infraštruktúrou.<br/>\nPred odoslaním zmien však aplikácia skontroluje pomocou <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">jednoduchého textového súboru</a> na mojom serveri či jej nebolo zakázané nahrávanie zmien. Toto je preventívne opatrenie zabraňujúce verziám aplikácie, v ktorých sa našli kritické chyby, aby poškodili OSM dáta.</p>",
+    "store_listing_short_description": "Aplikácia pre OpenStreetMap prieskumníkov",
+    "store_listing_full_description": "Pomôžte zlepšiť OpenStreetMap pomocou StreetComplete!\n\nTáto aplikácia nájde neúplné a rozšíriteľné údaje vo vašom okolí a zobrazí ich na mape ako úlohy. Vyriešte každú úlohy navštívením miesta a odpovedaním na jednoduchú otázku.\n\nZadané informácie sa priamo pridávajú do OpenStreetMap vo vašom mene bez potreby použitia iného editora.",
+    "privacy_html_third_party_quest_sources": "<p>Dáta pre niektoré úlohy sa sťahujú od tretích strán. Napr. úlohy týkajúce sa jednosmeriek používajú API westnordost.de na zistenie pravdepodobných kandidátov na jednosmerky.</p>",
+    "privacy_html_image_upload2": "<p>Fotky, ktoré priložíte k poznámke sú nahrané na moj server a vymazané pár dní po tom, čo je poznámka označená ako vyriešená. Ich metadáta sú odstránené pre nahraním.</p>",
+    "title_whats_new": "Čo je nové?",
+    "about_title_donate": "Prispieť",
+    "about_summary_donate": "Ukážte svoje uznanie! ❤️",
+    "action_about2": "O aplikácii",
+    "privacy_html_statistics": "<p><p>Dáta zobrazené vo vašom profile sú získaná z vašej verejne dostupnej histórie prispievateľa do OpenStreetMap a následne hosťované na mojom serveri.</p></p>",
+    "privacy_html_tileserver2": "<p>Pre zobrazenie mapy sa musia stiahnuť vektorové dlaždice z %1$s. Pre ďalšie informácie sa pozrite na ich <a href=\"%2$s\">prehlásenie o ochrane súkromia</a> .</p>\n",
+    "about_title_translate": "Pomôžte preložiť túto aplikáciu",
+    "about_title_faq": "Časté otázky"
+}

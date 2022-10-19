@@ -1,0 +1,17 @@
+{
+    "about_title_repository": "Projekta mājas lapa",
+    "about_title_privacy_statement": "Paziņojums par konfidencialitāti",
+    "privacy_html": "<p>Kādu interesē privātuma noteikumi? Jauki! Manuprāt, man tev ir tikai labas ziņas:</p>\n<p><b>Tieša rediģēšana</b></p>\n<p>\nIzmantojot šo lietotni, jūs veicat tiešu OpenStreetMap (OSM) rediģēšanu. <br/>\nViss, ko jūs ievadiet, tiek nodots OSM bez starpniekiem, nav trešo pušu starp lietotni un OSM infrastruktūru.\n</p>\n<p>\nOpenStreetMap rediģēšanu nevar veikt anonīmi. Izmaiņu saturs, datums un atrašanās vieta ir publiski redzams OpenStreetMap mājaslapā un tiek saistīts ar jūsu kontu. Tā kā StreetComplete ir paredzēts izmantot tikai klātienē, šī lietotne atklās, kur un kad jūs esat bijuši.\n</p>\n\n<b>Atrašanās vieta</b><br/>\n<p>\nŠī lietotne jūsu GPS datus nenodod nevienam. Tas tiek izmantots, lai automātiski atrastu un lejupielādētu uzdevumus tikai jūsu apkārtnē un, lai lejupielādētu karti ap jūsu atrašanās vietu.\n</p>\n\n<p><b>Datu lietojums</b></p>\n<p>\nŠī lietotne pa tiešo sazinās ar OSM serveriem.<br/>\nBet, pirms jūsu veikto izmaiņu augšupielādes, lietotne uz mana servera pārbauda <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">vienkārša teksta datni</a>, lai pārliecinātos, ka šai lietotnes versijai nav aizliegts augšupielādēt izmaiņas uz servera. Tas tiek darīts, lai neļautu kļūdainām lietotnes versijām augšupielādēt izmaiņas, kas varētu sabojāt OSM datus.</p>",
+    "store_listing_short_description": "OpenStreetMap mērnieka lietotne",
+    "store_listing_full_description": "Palīdziet uzlabot OpenStreetMap, izmantojot StreetComplete!\n\nLietotne sameklē trūkstošo informāciju jūsu apkārtnē un attēlo to kartē kā uzdevumus. Atrisiniet katru no šiem uzdevumiem, dodoties uz attiecīgo vietu un atbildot uz vienkāršu jautājumu, lai papildinātu karti.\n\nInformācija, ko jūs ievadiet, tiek pievienota OpenStreetMap jūsu lietotājvārdā bez nepieciešamības izmantot citu karšu rediģēšanas lietotni.",
+    "privacy_html_third_party_quest_sources": "<p>Dažiem uzdevumiem tiek lejupielādēti papildu dati no trešajām pusēm. Precīzāk, vienvirziena uzdevumi apvaicā API, kas atrodas arī uz westnordost.de, par to, kādi ir vienvirzienu kandidāti.</p>",
+    "privacy_html_image_upload2": "<p>Fotogrāfijas, kuras jūs pievienojat piezīmēm, tiek augšupielādētas uz manu serveri un tiek dzēstas dažas dienas pēc tam, kad piezīme ir atrisināta. Pirms augšupielādēšanas fotogrāfijas metadati tiek izdzēsti.</p>",
+    "title_whats_new": "Kas jauns?",
+    "about_title_donate": "Ziedo",
+    "about_summary_donate": "Parādiet savu atzinību! ❤️",
+    "action_about2": "Par",
+    "privacy_html_statistics": "<p>Dati, kas tiek rādīti jūsu profilā, ir savilkti kopā no jūsu publiski pieejamās OpenStreetMap kartēšanas vēstures un tad tiek izlikts uz mana servera.</p>",
+    "privacy_html_tileserver2": "<p>Lai attēlotu karti, vektoru flīzes tiek saņemtas no %1$s. Skatiet viņu <a href=\"%2$s\">paziņojumu par privātumu</a>, lai uzzinātu vairāk.</p>",
+    "about_title_translate": "Palīdzi tulkot šo lietotni",
+    "about_title_faq": "B.U.J."
+}

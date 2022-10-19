@@ -1,0 +1,17 @@
+{
+    "about_title_repository": "Projektets hem",
+    "about_title_privacy_statement": "Sekretesspolicy",
+    "privacy_html": "<p>Härligt, någon som bryr sig om sekretess! Jag har bara goda nyheter till dig:</p>\n<p><b>Direkta bidrag</b></p>\n<p>\nFörst och främst är du införstådd med att du med den här appen gör du faktiska och direkta bidrag till OpenStreetMap.<br/>\nAllt du bidrar i den här appen läggs direkt till på kartan, det finns ingen tredje part mellan appen och OSM-infrastrukturen.\n</p>\n<p>\nAtt redigera OpenStreetMap anonymt är inte möjligt. Alla ändringar du gör med ditt OSM-användarkonto (inklusive plats på kartan och datum) kan kopplas till itt konto och visas offentligt på webbplatsen openstreetmap.org. Eftersom StreetComplete bygger på att man ger sig ut och kartlägger kommer detta att kunna avslöja var och när du rör dig (eller har använt appen).\n</p>\n\n<b>Plats</b><br/>\n<p>\nAppen delar inte din GPS-position med någon. Det används för att automatiskt söka efter uppdrag i ditt område och att fokusera (och därmed hämta) kartan kring din plats.\n</p>\n\n<p><b>Dataanvändning</b></p>\n<p>\nSom nämnts kommunicerar appen direkt med OSM-infrastruktur.<br/>\nMen innan du skickar dina ändringar kontrollerar appen med en <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">enkel textfil</a> på min server om den har förbjudits att skicka några ändringar. Detta är en försiktighetsåtgärd för att kunna behålla versioner av appen som visar sig ha kritiska fel från att eventuellt korrumpera OSM-data.</p>",
+    "store_listing_short_description": "Kartläggningsapp för OpenStreetMap",
+    "store_listing_full_description": "Bidra till att förbättra OpenStreetMap med StreetComplete!\n\nAppen hittar ofullständiga uppgifter i din närhet och visar dem på en karta som markörer. Var och en av dessa går att lösa på plats genom att besvara en enkel fråga.\n\nDen information du anger skickas sedan direkt till OpenStreetMap i ditt namn, utan att du behöver använda en annan redigerare.",
+    "privacy_html_third_party_quest_sources": "<p>För några uppdrag kommer tilläggsdata från tredje part att hämtas. Sökningen efter uppdrag om enkelriktade gator använder ett API på westnordost.de för att hitta kandidater för enkelriktad körning.</p>",
+    "privacy_html_image_upload2": "<p>Foton som du bifogar en anteckning laddas upp till min server och tas bort några dagar efter att anteckningen är avklarad. Metadatan tas bort innan uppladdning.</p>",
+    "title_whats_new": "Vad är nytt?",
+    "about_title_donate": "Donera",
+    "about_summary_donate": "Visa din uppskattning! ❤️",
+    "action_about2": "Om",
+    "privacy_html_statistics": "<p>Uppgifterna som visas i din profil samlas från din offentligt tillgängliga bidragshistoria till OpenStreetMap och finns sedan på min server.</p>",
+    "privacy_html_tileserver2": "<p>För att visa kartan hämtas vektordelar från %1$s. Se deras <a href=\"%2$s\">integritetspolicy</a> för mer information.</p>",
+    "about_title_translate": "Hjälp till att översätta denna app",
+    "about_title_faq": "FAQ"
+}

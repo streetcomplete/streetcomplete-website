@@ -1,0 +1,17 @@
+{
+    "about_title_repository": "Kodelager",
+    "about_title_privacy_statement": "Personvernerklæring",
+    "privacy_html": "<p>Ah, noen som bryr seg om personvern - flott! Jeg tror jeg bare har gode nyheter til deg:</p>\n<p><b>Direkte bidrag</b></p>\n<p>\nMerk først at du med denne appen gir faktiske, direkte bidrag til OpenStreetMap.<br/>\nAlt du bidrar med blir lagt direkte til kartet, det er ikke noen tredjepart mellom appen og OSM-infrastrukturen.\n</p>\n<p>\nDet er ikke mulig å redigere OpenStreetMap anonymt. Alle endringene dine (med tidspunkt og sted) blir gjort med OSM-brukerkontoen din og er synlig for alle på openstreetmap.org. Fordi StreetComplete kun bør brukes når du er på stedet, vil dette avsløre hvor og når du har brukt appen.\n</p>\n\n<b>Posisjon</b><br/>\n<p>\nAppen deler ikke GPS-posisjonen din med noen. Den blir bare brukt til å automatisk søke opp oppdrag og vise (og dermed laste ned) kartet der du er.\n</p>\n\n<p><b>Databruk</b></p>\n<p>\nSom nevnt kommuniserer appen direkte med OSM-infrastrukturen.<br/>\nMen før appen laster opp endringene dine sjekker den via <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">en enkel tekstfil</a> på webserveren min om den er utestengt fra å laste opp endringer. Dette er en «føre var»-funksjon for å hindre at versjoner av appen som har kristiske feil kan komme til å ødelegge OSM-data.</p>",
+    "store_listing_short_description": "Kartleggingsapp for OpenStreetMap",
+    "store_listing_full_description": "Hjelp til med å forbedre OpenStreetMap med StreetComplete!\n\nDenne appen finner mangelfulle registreringer i nærheten av deg og viser dem med markører på kartet. Klikk på en markør for å få opp enkle spørsmål som bidrar til å fullføre informasjonen om stedet.\n\nInformasjonen du legger til blir automatisk lastet opp til OpenStreetMap i ditt navn, uten behov for andre redigeringsverktøy.",
+    "privacy_html_third_party_quest_sources": "<p>For noen oppdrag blir tilleggsdata lastet ned fra tredjeparter. Søket etter oppdrag om enveiskjørte veier bruker et API på westnordost.de for å finne kandidater for enveiskjøring.</p>",
+    "privacy_html_image_upload2": "<p>Bilder som legges ved en merknad blir lastet opp på serveren min og slettet noen dager etter at merknaden er løst. Metadata blir fjernet fra bildet før opplasting.</p>",
+    "title_whats_new": "Hva er nytt?",
+    "about_title_donate": "Gi pengegave",
+    "about_summary_donate": "Vis din takknemlighet! ❤️",
+    "action_about2": "Om",
+    "privacy_html_statistics": "<p>Data vist på profilen din blir samlet inn fra offentlig tilgjengelig informasjon fra bidragsloggen din i OpenStreetMap og så lastet opp til tjeneren min.</p>",
+    "privacy_html_tileserver2": "<p>For å vise kartet blir kart­fliser hentet fra %1$s. Se <a href=\"%2$s\">personvern­erklæringen deres</a> for mer informasjon.</p>",
+    "about_title_translate": "Hjelp til å oversette denne appen",
+    "about_title_faq": "Ofte stilte spørsmål"
+}

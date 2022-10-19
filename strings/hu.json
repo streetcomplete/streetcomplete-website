@@ -1,0 +1,17 @@
+{
+    "about_title_repository": "Források",
+    "about_title_privacy_statement": "Adatvédelmi nyilatkozat",
+    "privacy_html": "<p>Juhú, végre valakit érdekel az adatvédelem, remek! Szerintem csupa jó híreim vannak számodra:</p>\n<p><b>Közvetlen közreműködések</b></p>\n<p>\nElőször is, fontos megérteni, hogy a módosításaid valóban és közvetlenül megjelennek az OpenStreetMapben.<br>\nAz alkalmazásban megadott összes módosítás közvetlenül hozzáadódik a térképhez, nincs harmadik fél az alkalmazás és az OSM infrastruktúra között.\n</p>\n<p>\nAz OpenStreetMapet nem lehet névtelenül szerkeszteni, tehát minden módosítást az OSM-fiókoddal végzel. Ez azt jelenti, hogy a módosításaid időpontja, tartalma és így közvetve a helyszíne is a fiókodhoz köthető és ezeket bárki láthatja az OpenStreetMap honlapján.\n</p>\n\n<b>Helymeghatározás</b><br>\n<p>\nAz alkalmazás senkivel sem osztja meg a helyzetedet. Kizárólag arra használja, hogy automatikusan beolvassa a környezetedben lévő kérdéseket, vagyis a környékeden lévő térképre összpontosítson (és azt letöltse).\n</p>\n\n<p><b>Adathasználat</b></p>\n<p>\nAhogy említettük, az alkalmazás közvetlenül kommunikál az OSM infrastruktúrával.\nA módosításaid feltöltése előtt azonban az alkalmazás először leellenőrzi egy <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">egyszerű szövegfájl</a> alapján a szerveremen, hogy nincs-e letiltva számára a módosítások feltöltése. Ez egy óvintézkedés, amely kiszűri az alkalmazás azon verzióit, amelyekben olyan súlyos programhibák vannak, amelyek potenciálisan károsíthatnák az OSM adatait.</p>",
+    "store_listing_short_description": "OpenStreetMap-felmérő alkalmazás",
+    "store_listing_full_description": "Segítsd fejleszteni az OpenStreetMapet a StreetComplete-tel!\n\nEz az alkalmazás hiányos és bővíthető adatokat keres a környékeden és megjeleníti őket térképen. Egy egyszerű kérdésre válaszolva ezeket az adatokat mind meg lehet adni terepen.\n\nA megadott adatok közvetlenül az OpenStreetMapre kerülnek a nevedben, ehhez nincs szükség más szerkesztőprogramra.",
+    "privacy_html_third_party_quest_sources": "<p>Egyes kérdésekhez más, harmadik féltől származó adatok is letöltésre kerülnek. Különösen az egyirányú utcák lekérése egy (szintén a westnordost.de kiszolgálóján lévő) API-n keresztül zajlik.</p>",
+    "privacy_html_image_upload2": "<p>A megjegyzéshez csatolt fényképek feltöltődnek a szerveremre, a megjegyzés megoldása után pár nappal pedig törlődnek. A metaadataikat feltöltés előtt eltávolítjuk.</p>",
+    "title_whats_new": "Újdonságok",
+    "about_title_donate": "Támogatás",
+    "about_summary_donate": "Fejezd ki az elismerésedet! ❤️",
+    "action_about2": "Névjegy",
+    "privacy_html_statistics": "<p>A profilodon szereplő adatok a nyilvánosan elérhető OpenStreetMap szerkesztési előzményeidből származnak és a szerveremen találhatóak.</p>",
+    "privacy_html_tileserver2": "<p>A térkép megjelenítéséhez a vektorcsempék innen származnak: %1$s. Bővebb információért tekintsd meg az <a href=\"%2$s\">adatvédelmi nyilatkozatukat</a>.</p>",
+    "about_title_translate": "Segíts az alkalmazás fordításában",
+    "about_title_faq": "GYIK"
+}

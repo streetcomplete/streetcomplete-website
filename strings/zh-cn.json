@@ -1,0 +1,17 @@
+{
+    "about_title_repository": "代码仓库",
+    "about_title_privacy_statement": "声明",
+    "privacy_html": "<p>您很在意隐私？非常好！ 我们只有好消息可以告诉你：</p>\n<p><b>数据传输</b></p>\n<p>\n首先，通过此APP，您可以帮助完善 OpenStreetMap。<br/>\n您在此APP上所提交的所有数据，均将被直接添加至 OpenStreetMap，此 APP 和 OpenStreetMap 之间不会有任何第三方介入。\n</p>\n<p>\nOpenStreetMap 不接受匿名编辑，您需要登录您的 OpenStreetMap 帐号。您在此 APP 中作出的数据贡献都会在 OpenStreetMap 上公开。\n</p>\n\n<b>定位讯息</b><br/>\n<p>\n您的定位讯息仅用于搜寻附近的任务。不用担心，我们不会将您的定位讯息传至第三方。\n</p>\n\n<p><b>资料使用</b></p>\n<p>\n上传你的更变之前，此APP会在我的伺服器上确认 <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">简单的文字档</a> 是否被封锁而无法上传任何更变。这是一个防护措施，这样一来，如果 APP 的版本更变后有严重的错误出现，OpenStreetMap 的资料不会受污染。<br/>\n</p>",
+    "store_listing_short_description": "OpenStreetMap 测绘应用",
+    "store_listing_full_description": "使用 StreetComplete 来改善 OpenStreetMap！\n\n本应用会在你的附近找到尚未完整的、可扩充的资料，以标记显示在地图上。每个只要回答简单的问题就可以解决。\n\n你所输入的资料会被直接添加到 OpenStreetMap，而不需要其他的编辑器。",
+    "privacy_html_third_party_quest_sources": "<p>对一些任务来说，需要从第三方下载额外的资料。通常来说，单行道任务需要连线 API，同样放在 westnordost.de，储存可能的单行道。</p>",
+    "privacy_html_image_upload2": "<p>附加在笔记中的照片会上传到我的服务器中，在笔记解决之后会被删除。上传前，照片中的元数据会被移除。</p>",
+    "title_whats_new": "更新了什么？",
+    "about_title_donate": "捐赠",
+    "about_summary_donate": "展示您对本应用的喜爱！",
+    "action_about2": "关于",
+    "privacy_html_statistics": "<p>你的资料页面所展示数据是获取公开的OpenStreetMap贡献历史，随后托管在我的服务器上的</p>",
+    "privacy_html_tileserver2": "<p>要显示此地图，从 %1$s 检索矢量图。检视他们的<a href=\"%2$s\">隐私声明</a>取得更多资讯。</p>",
+    "about_title_translate": "帮助翻译本应用",
+    "about_title_faq": "常见问题与解答"
+}

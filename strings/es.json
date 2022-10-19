@@ -1,0 +1,17 @@
+{
+    "about_title_repository": "Repositorio de código",
+    "about_title_privacy_statement": "Declaración de privacidad",
+    "privacy_html": "<p>Vaya, por fin alguien que se preocupa por la privacidad. Pues estupendo, creo que van a ser todo buenas noticias:</p>\n<p><b>Aportaciones directas</b></p>\n<p>\nPunto número uno, con esta aplicación estás enviando contribuciones directas y totalmente reales a OpenStreetMap.<br/>\nCualquier aporte realizado con esta aplicación se añade directamente al mapa sin ningún intermediario entre aplicación e infraestructura final de OSM.\n</p>\n<p>\nNo se pueden aportar datos anónimos a OpenStreetMap, con lo que cualquier cambio que hagas se hará desde tu propia cuenta de usuario en OSM. Esto significa que tanto la fecha, el contenido, (y por supuesto) la ubicación de tus cambios son visibles para todos en la página de openstreetmap y están enlazados al nombre que pongas en tu cuenta.\n</p>\n\n<b>Ubicación</b><br/>\n<p>\nTu posición no se comparte con nadie, sólo se utiliza para buscar tareas disponibles en la zona y para acercar (y así descargar) el contenido del mapa que rodea tu ubicación.\n</p>\n\n<p><b>Uso de datos</b></p>\n<p>\nContinuando con lo de antes, la aplicación se comunica directamente con la infraestructura de OSM.<br/>\nNo obstante, antes de subir cualquier cambio, la aplicación comprueba si la versión actual aparece en un <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">archivo de texto plano</a> de mi servidor Web. Esta es una medida preventiva para que versiones antiguas de la aplicación que tengan errores críticos no puedan subir nada y así evitar corromper los datos de OSM.</p>",
+    "store_listing_short_description": "Aplicación de mapeo para OpenStreetMap",
+    "store_listing_full_description": "¡Ayuda a mejorar OpenStreetMap con StreetComplete!\n\nEsta aplicación busca información incompleta y mejorable en tu vecindario y la muestra en un mapa con marcadores. Puedes resolver cada uno de los problemas respondiendo a una simple pregunta in-situ.\n\nLa información añadida se incluye directamente en OpenStreetMap con tu nombre sin tener que utilizar ningún programa externo.",
+    "privacy_html_third_party_quest_sources": "<p>En algunas tareas se descargan datos adicionales de terceros. En particular, la búsqueda de calles de sentido único hace peticiones a una API alojada en «westnordost.de», con un listado de posibilidades.</ p>",
+    "privacy_html_image_upload2": "<p>Las fotos que adjuntes a una nota se suben a mi servidor y se borran en cuestión de días tras su resolución. No se incluye ningún metadato en las fotos subidas.<p>",
+    "title_whats_new": "¿Qué hay de nuevo?",
+    "about_title_donate": "Donar",
+    "about_summary_donate": "¡Muestra tu agradecimiento! ❤️",
+    "action_about2": "Acerca de",
+    "privacy_html_statistics": "<p>La información que ves en tu perfil proviene de tu historial público de cambios en OpenStreetMap y se aglutina en mi servidor. </p>",
+    "privacy_html_tileserver2": "<p>Para poder ver el mapa descargamos teselas vectoriales de %1$s. Mira la <a href=\"%2$s\">declaración de privacidad</a> para más información.</p>",
+    "about_title_translate": "Ayuda con la traducción",
+    "about_title_faq": "Preguntas frecuentes"
+}
