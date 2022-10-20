@@ -156,6 +156,9 @@ function switchScreenshot(add) {
 	} else {
 		if (screenshotId > 0) screenshotId--
 	}
+	// scrolling up a tiny amount to workaround a bug(?) that can only be reproduced in Chrome for Android:
+	// scrollIntoView would only do anything when it could also scroll vertically to it
+	window.scrollBy({ top: -0.1, behavior: 'instant'})
 	screenshots[screenshotId].scrollIntoView({behavior: "smooth"})
 }
 
