@@ -1,0 +1,20 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "de.westnordost.streetcomplete",
+    "sha256_cert_fingerprints": [
+      "99:5C:A1:DC:02:BD:B9:E3:11:7E:29:7B:77:91:44:0A:2E:A1:DC:A5:77:6C:B9:D5:6D:79:26:92:A5:97:C8:6C",
+      "7B:DA:B5:77:0B:DB:DC:7A:38:00:24:30:A0:B5:6A:DF:63:1F:14:45:BA:47:8B:A2:A8:FB:16:8D:5C:08:75:13"
+    ]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "de.westnordost.streetcomplete.debug",
+    "sha256_cert_fingerprints":
+    ["99:5C:A1:DC:02:BD:B9:E3:11:7E:29:7B:77:91:44:0A:2E:A1:DC:A5:77:6C:B9:D5:6D:79:26:92:A5:97:C8:6C"]
+  }
+}]
