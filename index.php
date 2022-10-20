@@ -16,6 +16,7 @@ header("Vary: Accept-Language");
 #intro {
 	text-align: center;
 	margin-bottom: 32px;
+	margin-top: 8px;
 }
 
 #phone_and_description {
@@ -107,6 +108,7 @@ header("Vary: Accept-Language");
 <body>
 <div class="center">
 	<div id="intro">
+		<img src="images/favicon.svg" alt="App Icon">
 		<h1>StreetComplete</h1>
 		<p class="subhead"><?php 
 		echo str_replace(
