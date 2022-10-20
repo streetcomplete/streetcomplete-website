@@ -5,11 +5,11 @@ header("Vary: Accept-Language");
 <!DOCTYPE html>
 <html lang="<?php echo $language; ?>">
 <head>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<meta name="description" content="<?php echo $strings["store_listing_short_description"]; ?>"/>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="<?php echo $strings["store_listing_short_description"]; ?>">
 <title>StreetComplete</title>
-<link rel="stylesheet" href="style.css"/>
+<link rel="stylesheet" href="style.css">
 <link rel="icon" href="images/favicon.svg">
 <style>
 
