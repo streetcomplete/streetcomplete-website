@@ -115,13 +115,13 @@ require_once "_intl.php";
 		);
 		?></p>
 		<div>
-			<a href="https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"><img src="images/google-play-badge.png" height="80"/></a><a href="https://f-droid.org/packages/de.westnordost.streetcomplete/"><img src="images/f-droid-badge.png" height="80"/></a><a href="https://github.com/streetcomplete/StreetComplete/releases/latest"><img src="images/github-badge.png" height="80"/></a>
+			<a aria-label="Google Play" href="https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"><img alt="Google Play Badge" src="images/google-play-badge.png" height="80"/></a><a aria-label="F-Droid" href="https://f-droid.org/packages/de.westnordost.streetcomplete/"><img alt="F-Droid Badge" src="images/f-droid-badge.png" height="80"/></a><a aria-label="GitHub" href="https://github.com/streetcomplete/StreetComplete/releases/latest"><img alt="GitHub Badge" src="images/github-badge.png" height="80"/></a>
 		</div>
 	</div>
 	<hr>
 	<div id="phone_and_description">
 		<div id="phone_screenshot_switcher">
-			<button style="z-index: 1;" id="previousScreenshotButton">
+			<button aria-label="Previous Screenshot" style="z-index: 1;" id="previousScreenshotButton">
 				<svg width="24" height="48" viewBox="0 0 3 6"><path d="m0,3 l2,3 h1 l-2,-3 l2,-3 h-1z" style="fill:#000"></path></svg>
 			</button>
 			<div id="phone">
@@ -138,7 +138,7 @@ require_once "_intl.php";
 				<div id="phone_frame"></div>
 			</div>
 
-			<button style="z-index: 1;" id="nextScreenshotButton">
+			<button aria-label="Next Screenshot" style="z-index: 1;" id="nextScreenshotButton">
 				<svg width="24" height="48" viewBox="0 0 3 6"><path d="m3,3 l-2,3 h-1 l2,-3 l-2,-3 h1z" style="fill:#000"></path></svg>
 			</button>
 		</div>
