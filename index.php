@@ -110,13 +110,7 @@ header("Vary: Accept-Language");
 	<div id="intro">
 		<img src="images/favicon.svg" alt="App Icon">
 		<h1>StreetComplete</h1>
-		<p class="subhead"><?php 
-		echo str_replace(
-			"OpenStreetMap",
-			"<a href=\"https://osm.org\">OpenStreetMap</a>",
-			$strings["store_listing_short_description"]
-		);
-		?></p>
+		<p class="subhead"><?php echo $strings["store_listing_short_description"]; ?></p>
 		<div>
 			<a aria-label="Google Play" href="https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"><img alt="Google Play Badge" src="images/google-play-badge.png" height="80"/></a><a aria-label="F-Droid" href="https://f-droid.org/packages/de.westnordost.streetcomplete/"><img alt="F-Droid Badge" src="images/f-droid-badge.png" height="80"/></a><a aria-label="GitHub" href="https://github.com/streetcomplete/StreetComplete/releases/latest"><img alt="GitHub Badge" src="images/github-badge.png" height="80"/></a>
 		</div>
