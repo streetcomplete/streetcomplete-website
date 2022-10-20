@@ -1,2 +1,3 @@
 RewriteEngine On
 RewriteRule "^privacy" "privacy.php"
+RewriteRule "^s" "index.php"
