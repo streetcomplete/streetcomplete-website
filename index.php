@@ -107,7 +107,13 @@ require_once "_intl.php";
 <div class="center">
 	<div id="intro">
 		<h1>StreetComplete</h1>
-		<p class="subhead"><?php echo $strings["store_listing_short_description"]; ?></p>
+		<p class="subhead"><?php 
+		echo str_replace(
+			"OpenStreetMap",
+			"<a href=\"https://osm.org\">OpenStreetMap</a>",
+			$strings["store_listing_short_description"]
+		);
+		?></p>
 		<div>
 			<a href="https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"><img src="images/google-play-badge.png" height="80"/></a><a href="https://f-droid.org/packages/de.westnordost.streetcomplete/"><img src="images/f-droid-badge.png" height="80"/></a><a href="https://github.com/streetcomplete/StreetComplete/releases/latest"><img src="images/github-badge.png" height="80"/></a>
 		</div>
@@ -137,7 +143,12 @@ require_once "_intl.php";
 			</button>
 		</div>
 		<p id="description">
-		<?php echo str_replace("\n", "<br>", $strings["store_listing_full_description"]); ?>
+		<?php 
+		echo str_replace(
+			array("\n", "OpenStreetMap"),
+			array("<br>", "<a href=\"https://osm.org\">OpenStreetMap</a>"),
+			$strings["store_listing_full_description"]
+		); ?>
 		</p>
 	</div>
 </div>
