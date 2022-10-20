@@ -54,6 +54,15 @@ h1 {
 	text-decoration: underline;
 }
 
+.infobox {
+	border-radius: 8px;
+	border: 1px solid rgb(208, 215, 222);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	padding: 16px;
+	background: #ffe;
+	font-weight: bold;
+}
+
 hr {
 	border: none;
 	border-top: 1px solid rgb(208, 215, 222);

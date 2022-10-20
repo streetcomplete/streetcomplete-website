@@ -114,6 +114,10 @@ header("Vary: Accept-Language");
 		<div>
 			<a aria-label="Google Play" href="https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"><img alt="Google Play Badge" src="images/google-play-badge.png" width="323" height="125"></a><a aria-label="F-Droid" href="https://f-droid.org/packages/de.westnordost.streetcomplete/"><img alt="F-Droid Badge" src="images/f-droid-badge.png" width="323" height="125"></a>
 		</div>
+		<?php 
+		if (str_starts_with($_SERVER["REQUEST_URI"], "/s?")) { 
+			echo "<div class=\"infobox\">".$strings["urlconfig_scan_qr_code_again"]."</div>";
+		} ?>
 	</div>
 	<hr>
 	<div id="phone_and_description">
