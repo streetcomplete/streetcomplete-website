@@ -143,14 +143,15 @@ header("Vary: Accept-Language");
 				<svg width="24" height="48" viewBox="0 0 3 6"><path d="m3,3 l-2,3 h-1 l2,-3 l-2,-3 h1z" style="fill:#000"></path></svg>
 			</button>
 		</div>
-		<p id="description">
-		<?php 
-		echo str_replace(
-			array("\n", "OpenStreetMap"),
-			array("<br>", "<a href=\"https://osm.org\">OpenStreetMap</a>"),
-			$strings["store_listing_full_description"]
-		); ?>
-		</p>
+		<div id="description">
+<?php 
+			echo str_replace(
+				array("\n", "OpenStreetMap"),
+				array("<br>", "<a href=\"https://osm.org\">OpenStreetMap</a>"),
+				$strings["store_listing_full_description"]
+			); 
+?>
+		</div>
 	</div>
 </div>
 <?php include "_footer.php"; ?>
