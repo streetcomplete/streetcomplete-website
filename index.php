@@ -1,5 +1,6 @@
 <?php 
 require_once "_intl.php";
+header("Vary: Accept-Language");
 ?>
 <!DOCTYPE html>
 <html lang="<?php echo $language; ?>">
