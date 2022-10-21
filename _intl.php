@@ -21,13 +21,19 @@ function getPreferredLanguages()
 	return array_keys($result);
 }
 
+function getSupportedLanguages()
+{
+	return array_filter(scandir("res"), function($f) {
+		return is_dir("res/".$f) && !str_starts_with($f, ".");
+	});
+}
+
 function findPreferredSupportedLanguage()
 {
 	$languages = getPreferredLanguages();
+	$supported = getSupportedLanguages();
 	foreach ($languages as $language) {
-		$language = strtolower($language);
-		$filename = "res/".$language."/strings.json";
-		if (file_exists($filename)) {
+		if (in_array($language, $supported)) {
 			return $language;
 		}
 	}
@@ -40,6 +46,7 @@ function getStrings($language)
 }
 
 $language = findPreferredSupportedLanguage();
+$supportedLanguages = getSupportedLanguages();
 $strings = getStrings($language);
 
 // fill missing strings in chosen language with default string from "en"

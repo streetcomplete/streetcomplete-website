@@ -11,6 +11,12 @@ header("Vary: Accept-Language");
 <title>StreetComplete</title>
 <link rel="stylesheet" href="res/style.css">
 <link rel="icon" href="res/favicon.svg">
+<?php
+	foreach ($supportedLanguages as $lang) {
+		echo "<link rel=\"alternate\" hreflang=\"".$lang."\" href=\"?lang=".$lang."\">\n";
+	}
+?>
+<link rel="alternate" hreflang="x-default" href="?lang=en" />
 <style>
 
 #intro {
