@@ -2,6 +2,7 @@
 
 function getPreferredLanguages()
 {
+	if (array_key_exists("lang", $_REQUEST)) return array($_REQUEST["lang"]);
 	$httpAcceptLanguage = array_key_exists('HTTP_ACCEPT_LANGUAGE', $_SERVER) ? $_SERVER['HTTP_ACCEPT_LANGUAGE'] : "";
 	$languagesWithWeights = explode(',', $httpAcceptLanguage);
 	$result = array();
