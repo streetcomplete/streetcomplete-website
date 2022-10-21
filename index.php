@@ -139,7 +139,12 @@ header("Vary: Accept-Language");
 					}
 					
 					$screenshotDir = "res/".$language;
-					$screenshots = array_filter(scandir("res/".$language), "isScreenshot");
+					$screenshots = array_filter(scandir($screenshotDir), "isScreenshot");
+					
+					if (count($screenshots) == 0) {
+						$screenshotDir = "res/en";
+						$screenshots = array_filter(scandir($screenshotDir), "isScreenshot");
+					}
 					
 					foreach ($screenshots as $screenshot) {
 						echo "<div style=\"background-image: url('".$screenshotDir."/".$screenshot."')\"></div>";
