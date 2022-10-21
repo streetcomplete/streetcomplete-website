@@ -1,5 +1,11 @@
 <?php
 
+function getLanguageRequestParam()
+{
+	if (array_key_exists("lang", $_REQUEST)) return "?lang=".$_REQUEST["lang"];
+	else return "";
+}
+
 function getPreferredLanguages()
 {
 	if (array_key_exists("lang", $_REQUEST)) return array($_REQUEST["lang"]);

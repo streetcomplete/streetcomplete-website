@@ -20,7 +20,7 @@
 				<h3><?php echo $strings["action_about2"]; ?></h3>
 				<a href="https://github.com/streetcomplete/StreetComplete/releases"><?php echo $strings["title_whats_new"]; ?></a>
 				<a href="https://wiki.openstreetmap.org/wiki/StreetComplete/FAQ"><?php echo $strings["about_title_faq"]; ?></a>
-				<a href="privacy"><?php echo $strings["about_title_privacy_statement"]; ?></a>
+				<a href="privacy<?php echo getLanguageRequestParam() ?>"><?php echo $strings["about_title_privacy_statement"]; ?></a>
 			</div>
 		</div>
 	</div>

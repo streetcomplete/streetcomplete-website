@@ -17,7 +17,7 @@ header("Vary: Accept-Language");
 <body>
 <div class="center">
 	<div style="margin-left: 32px; margin-right: 32px;">
-		<a href="/">&lt; Home</a>
+		<a href="/<?php echo getLanguageRequestParam() ?>">&lt; Home</a>
 		<h1><?php echo $strings["about_title_privacy_statement"]; ?></h1>
 		<?php 
 		echo $strings["privacy_html"];
