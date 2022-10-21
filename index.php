@@ -22,7 +22,7 @@ header("Vary: Accept-Language");
 #intro {
 	text-align: center;
 	margin-bottom: 32px;
-	margin-top: 8px;
+	margin-top: 32px;
 }
 
 #phone_and_description {

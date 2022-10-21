@@ -22,7 +22,7 @@ header("Vary: Accept-Language");
 </head>
 <body>
 <div class="center">
-	<div style="margin-left: 32px; margin-right: 32px;">
+	<div style="margin: 32px;">
 		<a href="/<?php echo getLanguageRequestParam() ?>">&lt; Home</a>
 		<h1><?php echo $strings["about_title_privacy_statement"]; ?></h1>
 		<?php 
