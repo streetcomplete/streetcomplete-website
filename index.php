@@ -9,8 +9,8 @@ header("Vary: Accept-Language");
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="<?php echo $strings["store_listing_short_description"]; ?>">
 <title>StreetComplete</title>
-<link rel="stylesheet" href="style.css">
-<link rel="icon" href="images/favicon.svg">
+<link rel="stylesheet" href="res/style.css">
+<link rel="icon" href="res/favicon.svg">
 <style>
 
 #intro {
@@ -100,7 +100,7 @@ header("Vary: Accept-Language");
 	margin: 0px;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: url("images/pixel6.webp");
+	background-image: url("res/pixel6.webp");
 }
 
 </style>
@@ -108,11 +108,11 @@ header("Vary: Accept-Language");
 <body>
 <div class="center">
 	<div id="intro">
-		<img src="images/favicon.svg" alt="App Icon">
+		<img src="res/favicon.svg" alt="App Icon">
 		<h1>StreetComplete</h1>
 		<p class="subhead"><?php echo $strings["store_listing_short_description"]; ?></p>
 		<div>
-			<a aria-label="Google Play" href="https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"><img alt="Google Play Badge" src="images/google-play-badge.png" width="323" height="125"></a><a aria-label="F-Droid" href="https://f-droid.org/packages/de.westnordost.streetcomplete/"><img alt="F-Droid Badge" src="images/f-droid-badge.png" width="323" height="125"></a>
+			<a aria-label="Google Play" href="https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"><img alt="Google Play Badge" src="res/google-play-badge.png" width="323" height="125"></a><a aria-label="F-Droid" href="https://f-droid.org/packages/de.westnordost.streetcomplete/"><img alt="F-Droid Badge" src="res/f-droid-badge.png" width="323" height="125"></a>
 		</div>
 		<?php 
 		if (str_starts_with($_SERVER["REQUEST_URI"], "/s?")) { 
@@ -127,14 +127,18 @@ header("Vary: Accept-Language");
 			</button>
 			<div id="phone">
 				<div id="screenshots">
-					<div style='background-image: url("images/screenshot1.webp")'></div>
-					<div style='background-image: url("images/screenshot2.webp")'></div>
-					<div style='background-image: url("images/screenshot3.webp")'></div>
-					<div style='background-image: url("images/screenshot4.webp")'></div>
-					<div style='background-image: url("images/screenshot5.webp")'></div>
-					<div style='background-image: url("images/screenshot6.webp")'></div>
-					<div style='background-image: url("images/screenshot7.webp")'></div>
-					<div style='background-image: url("images/screenshot8.webp")'></div>
+					<?php
+					function isScreenshot($var) {
+						return str_ends_with($var, ".webp"); 
+					}
+					
+					$screenshotDir = "res/".$language;
+					$screenshots = array_filter(scandir("res/".$language), "isScreenshot");
+					
+					foreach ($screenshots as $screenshot) {
+						echo "<div style=\"background-image: url('".$screenshotDir."/".$screenshot."')\"></div>";
+					}
+					?>
 				</div>
 				<div id="phone_frame"></div>
 			</div>

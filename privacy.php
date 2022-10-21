@@ -8,8 +8,8 @@ header("Vary: Accept-Language");
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title><?php echo $strings["about_title_privacy_statement"]; ?></title>
-<link rel="stylesheet" href="style.css"/>
-<link rel="icon" href="images/favicon.svg">
+<link rel="stylesheet" href="res/style.css"/>
+<link rel="icon" href="res/favicon.svg">
 <style>
 
 </style>

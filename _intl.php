@@ -19,7 +19,7 @@ function findPreferredSupportedLanguage()
 	$languages = getPreferredLanguages();
 	foreach ($languages as $language) {
 		$language = strtolower($language);
-		$filename = "strings/".$language.".json";
+		$filename = "res/".$language."/strings.json";
 		if (file_exists($filename)) {
 			return $language;
 		}
@@ -29,7 +29,7 @@ function findPreferredSupportedLanguage()
 
 function getStrings($language)
 {
-	return json_decode(file_get_contents("strings/".$language.".json"), true);
+	return json_decode(file_get_contents("res/".$language."/strings.json"), true);
 }
 
 $language = findPreferredSupportedLanguage();
