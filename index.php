@@ -188,11 +188,18 @@ function switchScreenshot(add) {
 	// scrollIntoView would only do anything when it could also scroll vertically to it
 	window.scrollBy({ top: -0.1, behavior: 'instant'})
 	screenshots[screenshotId].scrollIntoView({behavior: "smooth"})
+	updateButtonsVisibility();
+}
+
+function updateButtonsVisibility() {
+	nextButton.style.visibility = screenshotId < screenshots.length-1 ? "visible" : "hidden";
+	prevButton.style.visibility = screenshotId > 0 ? "visible" : "hidden";
 }
 
 prevButton.onclick = function() { switchScreenshot(-1) }
 nextButton.onclick = function() { switchScreenshot(+1) }
 phone.onclick = function(e) { switchScreenshot(Math.sign(e.offsetX - phone.offsetWidth/2)) }
+updateButtonsVisibility();
 
 </script>
 </body>
