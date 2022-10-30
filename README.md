@@ -1,4 +1,4 @@
-The webpage as displayed on streetcomplete.app
+The webpage as displayed on [streetcomplete.app](https://streetcomplete.app)
 
 ### License
 
