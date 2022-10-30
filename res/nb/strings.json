@@ -13,5 +13,6 @@
     "privacy_html_statistics": "<p>Data vist på profilen din blir samlet inn fra offentlig tilgjengelig informasjon fra bidragsloggen din i OpenStreetMap og så lastet opp til tjeneren min.</p>",
     "privacy_html_tileserver2": "<p>For å vise kartet blir kart­fliser hentet fra %1$s. Se <a href=\"%2$s\">personvern­erklæringen deres</a> for mer informasjon.</p>",
     "about_title_translate": "Hjelp til å oversette denne appen",
-    "about_title_faq": "Ofte stilte spørsmål"
+    "about_title_faq": "Ofte stilte spørsmål",
+    "about_title_get_involved": "Bidra"
 }

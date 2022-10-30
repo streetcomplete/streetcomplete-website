@@ -13,5 +13,6 @@
     "privacy_html_statistics": "<p>La información que ves en tu perfil proviene de tu historial público de cambios en OpenStreetMap y se aglutina en mi servidor. </p>",
     "privacy_html_tileserver2": "<p>Para poder ver el mapa descargamos teselas vectoriales de %1$s. Mira la <a href=\"%2$s\">declaración de privacidad</a> para más información.</p>",
     "about_title_translate": "Ayuda con la traducción",
-    "about_title_faq": "Preguntas frecuentes"
+    "about_title_faq": "Preguntas frecuentes",
+    "urlconfig_scan_qr_code_again": "Después de instalar la aplicación, escanee el código QR nuevamente para aplicar el ajuste preestablecido."
 }

@@ -13,5 +13,7 @@
     "privacy_html_statistics": "<p>Oplysninger i din profil stammer fra den offentlige bidragshistorie i OpenStreetMap og er lagt ind på min server.</p>",
     "privacy_html_tileserver2": "<p>For at vise kortet med vektortiles fra %1$s. Se deres <a href=\"%2$s\">\nfortrolighedserklæring</a>  for mere information.</p>",
     "about_title_translate": "Hjælp med at oversætte denne app",
-    "about_title_faq": "Ofte stillede spørgsmål"
+    "about_title_faq": "Ofte stillede spørgsmål",
+    "about_title_get_involved": "Deltag i arbejdet",
+    "urlconfig_scan_qr_code_again": "Når du har installeret appen, skal du scanne QR-koden igen for at anvende forudindstillingen."
 }

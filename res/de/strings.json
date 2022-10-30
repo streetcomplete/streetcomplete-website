@@ -13,5 +13,7 @@
     "privacy_html_statistics": "<p>Die Daten, die in deinem Profil angezeigt werden, werden aus der öffentlich zugreifbaren Historie deiner Beiträge an der OpenStreetMap generiert und diese dann auch auf meinem Server gehostet.</p>",
     "privacy_html_tileserver2": "<p>Um die Karte anzuzeigen, werden Vektordaten von %1$s heruntergeladen. Siehe deren <a href=\"%2$s\">Datenschutzbestimmungen</a> für weitere Informationen ein.</p>",
     "about_title_translate": "App übersetzen",
-    "about_title_faq": "FAQ"
+    "about_title_faq": "FAQ",
+    "about_title_get_involved": "Mitmachen",
+    "urlconfig_scan_qr_code_again": "Scanne den QR-Code nach der Installation der App erneut, um die Voreinstellung zu übernehmen."
 }
