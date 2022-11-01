@@ -14,7 +14,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "de.westnordost.streetcomplete.debug",
-    "sha256_cert_fingerprints":
-    ["99:5C:A1:DC:02:BD:B9:E3:11:7E:29:7B:77:91:44:0A:2E:A1:DC:A5:77:6C:B9:D5:6D:79:26:92:A5:97:C8:6C"]
+    "sha256_cert_fingerprints": [
+      "99:5C:A1:DC:02:BD:B9:E3:11:7E:29:7B:77:91:44:0A:2E:A1:DC:A5:77:6C:B9:D5:6D:79:26:92:A5:97:C8:6C",
+      "0D:54:C3:3C:AF:20:78:FF:F9:D3:25:0C:C7:CD:BC:EC:72:CB:42:9E:C8:59:42:7A:4D:D1:98:0D:B8:79:EA:47"
+    ]
   }
 }]
