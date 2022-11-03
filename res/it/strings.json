@@ -14,6 +14,5 @@
     "privacy_html_tileserver2": "<p>I tasselli vettoriali per mostrare la mappa sono presi da %1$s. Leggi la loro <a href=\"%2$s\">informativa sulla privacy</a>per maggiori informazioni.</p>",
     "about_title_translate": "Aiuta a tradurre questa app",
     "about_title_faq": "FAQ",
-    "about_title_get_involved": "Partecipa",
-    "urlconfig_scan_qr_code_again": "Dopo l'installazione dell'app, scansiona nuovamente il codice QR per applicare il preset."
+    "about_title_get_involved": "Partecipa"
 }

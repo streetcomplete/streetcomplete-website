@@ -14,6 +14,5 @@
     "privacy_html_tileserver2": "<p>Kako bi se prikazala karta, vektori se dohvaćaju sa %1$s. Pogledajte njihovu <a href=\"%2$s\">izjavu o privatnosti</a> za više informacija.</p>",
     "about_title_translate": "Pomozite prevesti ovu aplikaciju",
     "about_title_faq": "FAQ",
-    "about_title_get_involved": "Uključi se",
-    "urlconfig_scan_qr_code_again": "Nakon instaliranja aplikacije, ponovno skenirajte QR kod da biste primijenili tu Grupu zadataka."
+    "about_title_get_involved": "Uključi se"
 }

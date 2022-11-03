@@ -13,5 +13,6 @@
     "privacy_html_statistics": "<p>De gegevens die in je profiel worden weergegeven, worden samengevoegd uit je publiek beschikbare bijdragegeschiedenis aan OpenStreetMap en vervolgens gehost op mijn server.</p>",
     "privacy_html_tileserver2": "<p>Om de kaart weer te geven, worden vectortegels opgehaald uit %1$s. Zie hun <a href=\"%2$s\">privacy-verklaring</a> voor meer informatie.</p>",
     "about_title_translate": "Help deze app te vertalen",
-    "about_title_faq": "Veelgestelde vragen"
+    "about_title_faq": "Veelgestelde vragen",
+    "about_title_get_involved": "Doe mee"
 }

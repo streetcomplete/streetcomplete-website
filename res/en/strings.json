@@ -15,5 +15,5 @@
     "about_title_translate": "Help translate this app",
     "about_title_faq": "FAQ",
     "about_title_get_involved": "Get Involved",
-    "urlconfig_scan_qr_code_again": "After installing the app, scan the QR code again to apply the preset."
+    "urlconfig_scan_qr_code_again2": "After installing the app, scan the QR code again or click <a href=\"%s\">this link</a> to apply the preset."
 }

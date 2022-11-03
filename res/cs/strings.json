@@ -13,5 +13,6 @@
     "privacy_html_statistics": "<p>Data zobrazená ve vašem profilu jsou získaná z vaší veřejně dostupné historie přispěvatele do OpenStreetMap a následně hostovaná na mém serveru.</p>",
     "privacy_html_tileserver2": "<p>Pro zobrazení mapy musí být staženy vektorové dlaždice z %1$s. Pro další informace se podívejte na jejich <a href=\"%2$s\">prohlášení o ochraně soukromí</a> .</p>\n",
     "about_title_translate": "Pomozte přeložit tuto aplikaci",
-    "about_title_faq": "FAQ"
+    "about_title_faq": "FAQ",
+    "about_title_get_involved": "Zapojte se"
 }

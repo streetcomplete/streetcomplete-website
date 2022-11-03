@@ -122,7 +122,7 @@ header("Vary: Accept-Language");
 		</div>
 		<?php 
 		if (str_starts_with($_SERVER["REQUEST_URI"], "/s?")) { 
-			echo "<div class=\"infobox\">".$strings["urlconfig_scan_qr_code_again"]."</div>";
+			echo "<div class=\"infobox\">".sprintf($strings["urlconfig_scan_qr_code_again2"], "streetcomplete:/".$_SERVER["REQUEST_URI"])."</div>";
 		} ?>
 	</div>
 	<hr>

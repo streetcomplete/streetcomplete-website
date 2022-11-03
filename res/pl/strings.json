@@ -13,5 +13,6 @@
     "privacy_html_statistics": "<p>Dane pokazane w Twoim profilu są agregowane z publicznie dostępnej historii w OpenStreetMap, a następnie udostępniane na moim serwerze.</p>",
     "privacy_html_tileserver2": "<p>By wyświetlić mapę przygotowane dane pobierane są z %1$s. Zobacz ich <a href=\"%2$s\">politykę prywatności</a> by uzyskać pełne informacje.</p>",
     "about_title_translate": "Pomóż tłumaczyć aplikację.",
-    "about_title_faq": "FAQ"
+    "about_title_faq": "FAQ",
+    "about_title_get_involved": "Zaangażuj się"
 }

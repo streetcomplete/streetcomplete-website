@@ -14,6 +14,5 @@
     "privacy_html_tileserver2": "<p>Para mostrar o mapa, os mosaicos vetoriais são obtidos de %1$s. Consulte a <a href=\"%2$s\">declaração de privacidade</a> deles para obter mais informações.</p>",
     "about_title_translate": "Ajude a traduzir esta aplicação",
     "about_title_faq": "Perguntas frequentes",
-    "about_title_get_involved": "Contribua",
-    "urlconfig_scan_qr_code_again": "Após instalar a aplicação, digitalize o código QR novamente para aplicar o modelo."
+    "about_title_get_involved": "Contribua"
 }

@@ -14,6 +14,5 @@
     "privacy_html_tileserver2": "<p>Les tuiles vectorielles utilisées pour afficher la carte sont récupérées depuis %1$s. Lisez leur <a href=\"%2$s\">politique de confidentialité</a> pour plus d’informations.</p>",
     "about_title_translate": "Aidez à traduire cette application",
     "about_title_faq": "FAQ",
-    "about_title_get_involved": "Participer",
-    "urlconfig_scan_qr_code_again": "Après avoir installé l’application, rescannez le code QR pour appliquer le préréglage."
+    "about_title_get_involved": "Participer"
 }
