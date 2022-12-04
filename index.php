@@ -115,7 +115,7 @@ header("Vary: Accept-Language");
 
 @media (prefers-color-scheme: dark) {
 	.monochrome_icon {
-		color: #fff;
+		fill: #fff;
 	}
 }
 </style>
