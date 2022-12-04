@@ -64,7 +64,7 @@ header("Vary: Accept-Language");
 
 #phone_screenshot_switcher > button:hover {
 	transition-duration: 0.3s;
-	background-color: rgb(0,0,0,0.2);
+	background-color: rgba(128,128,128,0.4);
 }
 
 #phone {
@@ -73,7 +73,7 @@ header("Vary: Accept-Language");
 	width: 322.4px;
 	height: 680.8px;
 	border-radius: 21px;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	box-shadow: 0 4px 8px 0 rgba(128, 128, 128, 0.6), 0 6px 20px 0 rgba(128, 128, 128, 0.6);
 }
 
 #description {
@@ -109,6 +109,15 @@ header("Vary: Accept-Language");
 	background-image: url("res/pixel6.webp");
 }
 
+.monochrome_icon {
+	fill: #000;
+}
+
+@media (prefers-color-scheme: dark) {
+	.monochrome_icon {
+		color: #fff;
+	}
+}
 </style>
 </head>
 <body>
@@ -129,7 +138,7 @@ header("Vary: Accept-Language");
 	<div id="phone_and_description">
 		<div id="phone_screenshot_switcher">
 			<button aria-label="Previous Screenshot" style="z-index: 1;" id="previousScreenshotButton">
-				<svg width="24" height="48" viewBox="0 0 3 6"><path d="m0,3 l2,3 h1 l-2,-3 l2,-3 h-1z" style="fill:#000"></path></svg>
+				<svg width="24" height="48" viewBox="0 0 3 6"><path d="m0,3 l2,3 h1 l-2,-3 l2,-3 h-1z" class="monochrome_icon"></path></svg>
 			</button>
 			<div id="phone">
 				<div id="screenshots">
@@ -155,7 +164,7 @@ header("Vary: Accept-Language");
 			</div>
 
 			<button aria-label="Next Screenshot" style="z-index: 1;" id="nextScreenshotButton">
-				<svg width="24" height="48" viewBox="0 0 3 6"><path d="m3,3 l-2,3 h-1 l2,-3 l-2,-3 h1z" style="fill:#000"></path></svg>
+				<svg width="24" height="48" viewBox="0 0 3 6"><path d="m3,3 l-2,3 h-1 l2,-3 l-2,-3 h1z" class="monochrome_icon"></path></svg>
 			</button>
 		</div>
 		<div id="description">
