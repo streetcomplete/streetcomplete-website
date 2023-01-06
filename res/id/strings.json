@@ -5,7 +5,7 @@
     "store_listing_short_description": "Aplikasi surveyor OpenStreetMap",
     "store_listing_full_description": "Bantu memperbaiki OpenStreetMap dengan StreetComplete!\n\nAplikasi ini mencari data yang belum selesai atau yang bisa diperpanjang di sekitarmu dan menampilkannya di peta sebagai marka. Setiap marka bisa diselesaikan dengan menjawab pertanyaan sederhana untuk menambah informasi di tempat.\n\nInformasi yang dimasukkan lalu langsung ditambahkan ke OpenStreetMap atas namamu, tanpa memerlukan editor lainnya.",
     "privacy_html_third_party_quest_sources": "\n<p>Untuk sebagian pencarian, beberapa data tambahan dari pihak ketiga turut diunduh. Khususnya, pencarian satu arah sebagai API, juga dihost di westnordost.de, tentang kandidat yang mungkin untuk jalan satu arah</p>\n",
-    "privacy_html_image_upload2": "<p>Foto yang kamu lampirkan ke catatan diunggah ke server saya dan dihapus beberapa hari setelah catatan diselesaikan. Meta-data foto dihapus sebelum diunggah.</p>",
+    "privacy_html_image_upload2": "<p>Foto yang kamu lampirkan ke catatan diunggah ke server saya dan dihapus beberapa hari setelah catatan diselesaikan. Metadata foto dihapus sebelum diunggah.</p>",
     "title_whats_new": "Apa yang baru?",
     "about_title_donate": "Donasi",
     "about_summary_donate": "Beri apresiasimu! ❤️",
@@ -13,5 +13,7 @@
     "privacy_html_statistics": "<p>Data yang tampil di profilmu digabung dari sejarah kontribusimu ke OpenStreetMap lalu dihosting di serverku.<p>",
     "privacy_html_tileserver2": "<p>Untuk menampilkan peta, petak vektor akan diambil dari %1$s. Lihat <a href=\"%2$s\">pernyataan privasi</a> mereka untuk lebih lanjut.</p>",
     "about_title_translate": "Bantu menerjemahkan aplikasi ini",
-    "about_title_faq": "SSD (Soal Sering Ditanya)"
+    "about_title_faq": "SSD (Soal Sering Ditanya)",
+    "about_title_get_involved": "Terlibat",
+    "urlconfig_scan_qr_code_again2": "Setelah memasang aplikasi, pindai kode QR lagi atau klik <a href=\"%s\">tautan ini</a> untuk menerapkan preset."
 }

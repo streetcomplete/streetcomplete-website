@@ -11,5 +11,6 @@
     "action_about2": "アプリについて",
     "privacy_html_statistics": "<p>あなたのプロフィールに表示されている情報は、OpenStreetMap に公開されているあなたの貢献の履歴から集められ、私のサーバから提供されています。</p>",
     "privacy_html_tileserver2": "<p>地図を表示するためにベクタータイルを %1$s から取得します。詳しくは %1$s の <a href=\"%2$s\">privacy statement</a> を参照してください。</p>",
-    "about_title_translate": "アプリの翻訳を手伝う"
+    "about_title_translate": "アプリの翻訳を手伝う",
+    "urlconfig_scan_qr_code_again2": "アプリのインストール後、再度QRコードを読み取るか、<a href=\"%s\">このリンク</a>をクリックしてプリセットを適用して下さい。"
 }

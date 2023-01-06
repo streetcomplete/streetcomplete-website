@@ -13,5 +13,7 @@
     "privacy_html_statistics": "<p>A profilodon szereplő adatok a nyilvánosan elérhető OpenStreetMap szerkesztési előzményeidből származnak és a szerveremen találhatóak.</p>",
     "privacy_html_tileserver2": "<p>A térkép megjelenítéséhez a vektorcsempék innen származnak: %1$s. Bővebb információért tekintsd meg az <a href=\"%2$s\">adatvédelmi nyilatkozatukat</a>.</p>",
     "about_title_translate": "Segíts az alkalmazás fordításában",
-    "about_title_faq": "GYIK"
+    "about_title_faq": "GYIK",
+    "about_title_get_involved": "Kapcsolódj be",
+    "urlconfig_scan_qr_code_again2": "Az alkalmazás telepítése után olvasd le újra a QR-kódot, vagy kattints <a href=\"%s\">erre a hivatkozásra</a> az előre beállított érték alkalmazásához."
 }

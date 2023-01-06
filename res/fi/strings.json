@@ -2,16 +2,18 @@
     "about_title_repository": "Lähdekoodin sijainti",
     "about_title_privacy_statement": "Tietosuojalausunto",
     "privacy_html": "<p>Ah, joku sentään huolehtii yksityisyydestään, kiva! Mielestäni minulla on vain hyviä uutisia:</p>\n<p><b>Suorat työpanokset</b></p>\n<p>\nEnsimmäiseksi, on ymmärrettävä, että olet tekemässä oikeita ja suoria täydennöksiä OpenStreetMapiin.<br/>\nKaikki mitä lisäät tässä sovelluksessa lisätään suoraan kartalle, välissä ei ole mitään kolmansia osapuolia välitettäessä tietoja OpenStreetMapiin.\n</p>\n<p>\nOpenStreetMapin muokkaaminen anonyymisti ei ole mahdollista, joten kaikki muokkaukset tehdään tililläsi. Tämä tarkoittaa että muokkauksen päivä, sisältö ja sijainti näkyvät julkisesti openstreetmap -verkkosivulla ja määritettävissä tilillesi.\n</p>\n\n<b>Sijainti</b><br/>\n<p>\nSijaintiasi käytetään vain automaattiseen täydennettävien tietojen hakemiseen ympäristöstäsi. Ei huolta, sovellus pitää tiedot itsellään.\n</p>\n\n<p><b>Datan käyttö</b></p>\n<p>\nKuten mainittu, sovellus on suoraan yhteydessä OSM järjestelmään. Joka tapauksessa, ennen lähettämistä sovellus tarkistaa muutoksesi käyttäen <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">yksinkertaista tekstitiedostoa</a> palvelimellani muutoksien lähettäminen eston varalta. Tämä on ennaltaehkäisevä tarkistus jottei mahdolliset virheelliset sovellusversiot korruptoi OpenStreetMap dataa.<br/>\n</p>",
-    "store_listing_short_description": "OpenStreetMap maanmittaussovellus",
-    "store_listing_full_description": "Auta parantamaan OpenStreetMapia StreetCompletella! Voit näin osallistua vapaan kartan kehittämiseen helposti. \n\nSovelluksella löydät puuttuvia ja täydennettäviä tietoja lähiympäristöstäsi. Sovellus näyttää puuttuvat tiedot karttamerkkeinä, ja esittää niistä yksinkertaisesti ratkaistavia kysymyksiä.  \n\nVastauksesi täydentävät OpenStreetMapsiä omalla nimelläsi. Et tarvi sovelluksen lisäksi erillistä OpenStreetMaps editoria.",
+    "store_listing_short_description": "OpenStreetMap-kyselyssovellus",
+    "store_listing_full_description": "Auta parantamaan OpenStreetMapia StreetCompletella! Näin voit osallistua vapaan kartan kehittämiseen helposti.\n\nSovelluksella löydät puuttuvia ja täydennettäviä tietoja lähiympäristöstäsi. Sovellus näyttää puuttuvat tiedot karttamerkkeinä, ja esittää niistä yksinkertaisesti ratkaistavia kysymyksiä.\n\nVastauksesi täydentävät OpenStreetMapsia omalla nimelläsi. Et tarvitse sovelluksen lisäksi erillistä OpenStreetMap-editoria.",
     "privacy_html_third_party_quest_sources": "<p>Osa kysymyksistä lataa tietoa kolmansien osapuolien lähteistä. Erityisesti yhdensuuntaiset kysymysten API:ssa,  jotka myös toimittaa westnordost.de, kuten myös mahdolliset yksisuuntaiset kysymykset.\n</p>",
-    "privacy_html_image_upload2": "<p>Liittämäsi kuvat ladataan palvelimelleni ja poistetaan muutamien päivien sisällä huomatuksen ratkaisusta. Kuvien metadata poistetaan ennen latausta.</p>",
+    "privacy_html_image_upload2": "<p>Liittämäsi kuvat ladataan palvelimelleni ja poistetaan muutamien päivien sisällä ilmoituksen ratkaisusta. Kuvien metadata poistetaan ennen latausta.</p>",
     "title_whats_new": "Mitä uutta?",
     "about_title_donate": "Lahjoita",
     "about_summary_donate": "Näytä arvostuksesi! ♥️",
     "action_about2": "Tietoa",
-    "privacy_html_statistics": "<p> Profiilissasi näkyvät tiedot yhdistetään julkisesti saatavilla olevasta osallistumishistoriastasi OpenStreetMap:iin ja ylläpidetään palvelimellani. </p>",
+    "privacy_html_statistics": "<p>Profiilissasi näkyvät tiedot yhdistetään julkisesti saatavilla olevasta osallistumishistoriastasi OpenStreetMapiin ja ylläpidetään palvelimellani.</p>",
     "privacy_html_tileserver2": "<p>Näyttääkseen kartan, vektorilaatat ladataan %1$s-palvelulta. Lue heidän <a href=\"%2$s\">tietosuojaselosteensa</a> tietääksesi enemmän.</p>",
     "about_title_translate": "Auta kääntämään tätä sovellusta",
-    "about_title_faq": "UKK"
+    "about_title_faq": "UKK",
+    "about_title_get_involved": "Osallistu",
+    "urlconfig_scan_qr_code_again2": "Sovelluksen asennuksen jälkeen skannaa QR-koodi uudelleen tai napsauta <a href=\"%s\">tätä linkkiä</a> toteuttaaksesi esiasetuksen."
 }

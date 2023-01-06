@@ -13,5 +13,7 @@
     "privacy_html_statistics": "<p>Les dades que es mostren al vostre perfil s'agreguen des de l'historial de contribucions disponible al públic a OpenStreetMap i després s'allotjen al meu servidor.</p>",
     "privacy_html_tileserver2": "<p>Per mostrar el mapa, les rajoles vectorials es recuperen de %1$s. Vegeu la seva <a href=\"%2$s\">declaració de privadesa</a> per a més informació.</p>",
     "about_title_translate": "Ajudeu a traduir aquesta aplicació",
-    "about_title_faq": "PMF"
+    "about_title_faq": "PMF",
+    "about_title_get_involved": "Involucra't",
+    "urlconfig_scan_qr_code_again2": "Després d'instal·lar l'aplicació, escaneja el QR una altra vegada o punxa <a href=\"%s\">aquest enllaç</a> per a aplicar la predefinició."
 }

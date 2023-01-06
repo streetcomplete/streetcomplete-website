@@ -13,5 +13,7 @@
     "privacy_html_statistics": "<p>Dati, kas tiek rādīti jūsu profilā, ir savilkti kopā no jūsu publiski pieejamās OpenStreetMap kartēšanas vēstures un tad tiek izlikts uz mana servera.</p>",
     "privacy_html_tileserver2": "<p>Lai attēlotu karti, vektoru flīzes tiek saņemtas no %1$s. Skatiet viņu <a href=\"%2$s\">paziņojumu par privātumu</a>, lai uzzinātu vairāk.</p>",
     "about_title_translate": "Palīdzi tulkot šo lietotni",
-    "about_title_faq": "B.U.J."
+    "about_title_faq": "B.U.J.",
+    "about_title_get_involved": "Iesaisties",
+    "urlconfig_scan_qr_code_again2": "Pēc lietotnes instalēšanas, atkal skenējiet QR kodu un spiediet <a href=\"%s\">šo saiti</a>, lai pielietotu priekšiestatījumu."
 }

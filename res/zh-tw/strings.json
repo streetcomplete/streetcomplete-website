@@ -13,5 +13,7 @@
     "privacy_html_statistics": "<p>在你的檔案中被顯示的資料，是從你可用的OSM公開貢獻歷史，並儲存在我的伺服器。</p>",
     "privacy_html_tileserver2": "<p>要顯示此地圖，向量圖磚皆從 %1$s 取得。檢視它們的<a href=\"%2$s\">隱私聲明</a>取得更多資訊。</p>",
     "about_title_translate": "幫忙翻譯這款 app",
-    "about_title_faq": "常見問題"
+    "about_title_faq": "常見問題",
+    "about_title_get_involved": "參與其中",
+    "urlconfig_scan_qr_code_again2": "在安裝 app 之後，再掃一次條碼或是點一下  <a href=\"%s\">this link</a> 來套用預設組合。"
 }

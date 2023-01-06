@@ -5,14 +5,15 @@
     "store_listing_short_description": "OpenStreetMap inspektions-app",
     "store_listing_full_description": "Gør OpenStreetMap bedre med StreetComplete!\n\nDenne app finder ukomplette data der kan udvides i dit nærområde, og viser dem på et kort som markører. Hver af disse er opgaver, som du løse ved at svare på et simpelt spørgsmål, hvorved data på OSM forbedres.\n\nInformationerne du angiver sendes direkte til OpenStreetMap i dit brugernavn, uden du behøver at bruge et andet redigeringsværktøj.",
     "privacy_html_third_party_quest_sources": "<p>Ved nogle opgaver er der brug for at hente ekstra data fra tredjeparter. Navnlig ensrettet-opgaven bruger et API, også hostet på westnordost.de, for mulige envejs-kandidater.</p>",
-    "privacy_html_image_upload2": "<p>Billeder du vedhæfter til en note uploades til en server og slettes nogle dage efter, at den note er blevet løst. Metadata i billeder fjernes før upload.</p>",
+    "privacy_html_image_upload2": "<p>Billeder du vedhæfter til en note, uploades til min server og slettes nogle dage efter, at den note er blevet løst. Metadata i billeder fjernes før upload.</p>",
     "title_whats_new": "Hvad er nyt?",
     "about_title_donate": "Donér",
     "about_summary_donate": "Vis din påskønnelse! ❤️",
     "action_about2": "Om",
-    "privacy_html_statistics": "<p>Oplysninger i din profil stammer fra den offentlige bidragshistorie i OpenStreetMap og er lagt ind på min server.</p>",
-    "privacy_html_tileserver2": "<p>For at vise kortet med vektortiles fra %1$s. Se deres <a href=\"%2$s\">\nfortrolighedserklæring</a>  for mere information.</p>",
+    "privacy_html_statistics": "<p>Oplysningerne, der vises i din profil, er indhentet fra den offentligt tilgængelig bidragshistorik i OpenStreetMap og lagt på min server.</p>",
+    "privacy_html_tileserver2": "<p>For at vise kortet, hentes der vektorfliser fra %1$s. Se deres <a href=\"%2$s\">fortrolighedserklæring</a> for mere information.</p>",
     "about_title_translate": "Hjælp med at oversætte denne app",
     "about_title_faq": "Ofte stillede spørgsmål",
-    "about_title_get_involved": "Deltag i arbejdet"
+    "about_title_get_involved": "Deltag i arbejdet",
+    "urlconfig_scan_qr_code_again2": "Når du har installeret appen, skal du scanne QR-koden igen eller klikke på <a href=\"%s\">dette link</a> for at anvende forudindstillingen."
 }

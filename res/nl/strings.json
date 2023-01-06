@@ -14,5 +14,6 @@
     "privacy_html_tileserver2": "<p>Om de kaart weer te geven, worden vectortegels opgehaald uit %1$s. Zie hun <a href=\"%2$s\">privacy-verklaring</a> voor meer informatie.</p>",
     "about_title_translate": "Help deze app te vertalen",
     "about_title_faq": "Veelgestelde vragen",
-    "about_title_get_involved": "Doe mee"
+    "about_title_get_involved": "Doe mee",
+    "urlconfig_scan_qr_code_again2": "Scan na het installeren van de app de QR code opnieuw of klik op <a href=\"%s\">deze link</a> om de voorinstelling toe te passen."
 }

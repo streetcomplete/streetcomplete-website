@@ -13,5 +13,7 @@
     "privacy_html_statistics": "<p><p>Dáta zobrazené vo vašom profile sú získaná z vašej verejne dostupnej histórie prispievateľa do OpenStreetMap a následne hosťované na mojom serveri.</p></p>",
     "privacy_html_tileserver2": "<p>Pre zobrazenie mapy sa musia stiahnuť vektorové dlaždice z %1$s. Pre ďalšie informácie sa pozrite na ich <a href=\"%2$s\">prehlásenie o ochrane súkromia</a> .</p>\n",
     "about_title_translate": "Pomôžte preložiť túto aplikáciu",
-    "about_title_faq": "Časté otázky"
+    "about_title_faq": "Časté otázky",
+    "about_title_get_involved": "Zapojiť sa",
+    "urlconfig_scan_qr_code_again2": "Po nainštalovaní aplikácie znovu naskenujte QR kód alebo kliknite <a href=\"%s\">this link</a> na použitie predvoľby."
 }

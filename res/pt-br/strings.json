@@ -14,5 +14,6 @@
     "privacy_html_tileserver2": "<p> Para exibir o mapa, os blocos de vetor são recuperados de %1$s. Veja a<a href=\"%2$s\">privacidade></a>para obter mais informações.</p>",
     "about_title_translate": "Ajude a traduzir",
     "about_title_faq": "Perguntas frequentes",
-    "about_title_get_involved": "Se envolva"
+    "about_title_get_involved": "Se envolva",
+    "urlconfig_scan_qr_code_again2": "Depois de instalar o aplicativo, digitalize o código QR novamente ou clique <a href=\"%s\">neste link</a> para aplicar a predefinição."
 }

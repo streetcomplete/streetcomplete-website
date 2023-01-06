@@ -14,5 +14,6 @@
     "privacy_html_tileserver2": "<p>För att visa kartan hämtas vektordelar från %1$s. Se deras <a href=\"%2$s\">integritetspolicy</a> för mer information.</p>",
     "about_title_translate": "Hjälp till att översätta denna app",
     "about_title_faq": "FAQ",
-    "about_title_get_involved": "Hjälp till"
+    "about_title_get_involved": "Hjälp till",
+    "urlconfig_scan_qr_code_again2": "Efter att ha installerat appen, skanna QR-koden igen och tryck på <a href=\"%s\">den här länken</a> för att aktivera gruppen."
 }

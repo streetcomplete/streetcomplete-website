@@ -14,5 +14,6 @@
     "privacy_html_tileserver2": "<p>要显示此地图，从 %1$s 检索矢量图。检视他们的<a href=\"%2$s\">隐私声明</a>取得更多资讯。</p>",
     "about_title_translate": "帮助翻译本应用",
     "about_title_faq": "常见问题与解答",
-    "about_title_get_involved": "参与其中"
+    "about_title_get_involved": "参与其中",
+    "urlconfig_scan_qr_code_again2": "安装应用程序后，再次扫描二维码或点击<a href=\"%s\">此链接</a>以应用预设。"
 }
