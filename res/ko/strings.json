@@ -13,5 +13,7 @@
     "privacy_html_statistics": "<p>프로필에 나와 있는 데이터는 누구나 볼 수 있는 여러분의 오픈스트리트맵 기여 내역에서 가져와 합산하여 StreetComplete 서버에 저장합니다.</p>",
     "privacy_html_tileserver2": "<p>지도를 띄우기 위해 %1$s에서 벡터 타일을 가져옵니다. 자세한 사항은 해당 서비스의 <a href=\"%2$s\">개인정보 정책</a>을 참고하세요.</p>",
     "about_title_translate": "앱 번역을 도와주세요",
-    "about_title_faq": "FAQ"
+    "about_title_faq": "FAQ",
+    "about_title_get_involved": "참여하기",
+    "urlconfig_scan_qr_code_again2": "앱을 설치한 후, 프리셋을 적용하기 위해 QR 코드를 스캔하거나 <a href=\"%s\">이 링크</a>를 클릭하세요."
 }
