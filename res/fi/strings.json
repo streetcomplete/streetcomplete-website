@@ -12,7 +12,7 @@
     "action_about2": "Tietoa",
     "privacy_html_statistics": "<p>Profiilissasi näkyvät tiedot yhdistetään julkisesti saatavilla olevasta osallistumishistoriastasi OpenStreetMapiin ja ylläpidetään palvelimellani.</p>",
     "privacy_html_tileserver2": "<p>Näyttääkseen kartan, vektorilaatat ladataan %1$s-palvelulta. Lue heidän <a href=\"%2$s\">tietosuojaselosteensa</a> tietääksesi enemmän.</p>",
-    "about_title_translate": "Auta kääntämään tätä sovellusta",
+    "about_title_translate": "Auta sovelluksen suomentamisessa",
     "about_title_faq": "UKK",
     "about_title_get_involved": "Osallistu",
     "urlconfig_scan_qr_code_again2": "Sovelluksen asennuksen jälkeen skannaa QR-koodi uudelleen tai napsauta <a href=\"%s\">tätä linkkiä</a> toteuttaaksesi esiasetuksen."
