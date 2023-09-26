@@ -13,5 +13,7 @@
     "privacy_html_statistics": "<p>Zure profilean erakusten diren datuak zure OpenStreetMap-eko aportazioen informazio publikoa hartuta prozesatutakoak dira, gero nire zerbitzarian ostatatuta.</p>",
     "privacy_html_tileserver2": "<p>Mapa bistaratzeko, lauza bektorialak %1$s-tik berreskuratzen dira. Informazio gehiago lortzeko, ikusi haien <a href=\"%2$s\"> pribatutasun-adierazpena </a>. </p>",
     "about_title_translate": "Lagundu app hau itzultzen",
-    "about_title_faq": "FAQ"
+    "about_title_faq": "FAQ",
+    "about_title_get_involved": "Parte hartu",
+    "urlconfig_scan_qr_code_again2": "Aplikazioa instalatu ondoren, eskaneatu QR kodea berriro edo egin klik <a href=\"%s\">esteka honetan</a> aurrez ezarpena aplikatzeko."
 }

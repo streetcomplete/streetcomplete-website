@@ -1,16 +1,19 @@
 {
     "about_title_repository": "ソースリポジトリ",
     "about_title_privacy_statement": "プライバシーに関する声明",
-    "privacy_html": "<p>プライバシーを気にする人は、素敵です! あなたに良いニュースしかないと思います:</p>\n<p><b>直接の貢献</b></p>\n<p>\nまず、このアプリで OpenStreetMap に実際に、直接貢献していることを理解してください。<br/>\nこのアプリであなたが提供するものはすべて地図に直接追加され の場合のように、アプリと OSM インフラストラクチャーの間にサードパーティは存在しません\n</p>\n<p>\nOpenStreetMap を匿名で編集することはできないため、変更は OSM ユーザーアカウントで行います。これは、日付、コンテンツ、および暗黙的に変更した場所が openstreetmap ウェブサイトに公開され、あなたのアカウントに帰属することを意味します。\n</p>\n\n<b>場所</b><br/>\n<p>\nあなたの場所は、あなたの周辺の探索を自動的にスキャンするためにのみ使用されます。心配しなくても、アプリは自分の位置を内部に保持します。\n</p>\n\n<p><b>データの使用</b></p>\n<p>\n前述のとおり、このアプリは OSM インフラストラクチャと直接通信します。\nただし、変更をアップロードする前に、アプリは私たちのサーバー上で <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">simple text file</a> を使用して、アップロードと変更が禁止されているかどうかを確認します。これは、OSM データを壊滅させる可能性のある重大なバグのあるバージョンのアプリを保護するめの予防措置です。\n</p>\n",
+    "privacy_html": "<p>プライバシーを気にする人は、素敵です! あなたに良いニュースしかないと思います:</p>\n<p><b>直接の貢献</b></p>\n<p>\nまず、このアプリで OpenStreetMap に実際に、直接貢献していることを理解してください。<br/>\nこのアプリであなたが提供するものはすべて地図に直接追加され、アプリと OSM インフラストラクチャーの間にサードパーティは存在しません\n</p>\n<p>\nOpenStreetMap を匿名で編集することはできないため、変更は OSM ユーザーアカウントで行います。これは、日付、コンテンツ、および暗黙的に変更した場所が openstreetmap.org ウェブサイトに公開され、あなたのアカウントに帰属することを意味します。\n</p>\n\n<b>位置情報</b><br/>\n<p>\nこのアプリはあなたの位置情報を他の人とシェアすることはありません。あなたの位置情報は、あなたの周辺のクエストを自動的にスキャンするためにのみ使用されます。\n</p>\n\n<p><b>データの使用</b></p>\n<p>\nこのアプリは OSM インフラストラクチャと直接通信します。\nただし、変更をアップロードする前に、アプリは私たちのサーバー上で <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">simple text file</a> を使用して、アップロードと変更が禁止されているかどうかを確認します。これは、OSM データを壊滅させる可能性のある重大なバグのあるバージョンのアプリを保護するための予防措置です。\n</p>\n",
     "store_listing_short_description": "OpenStreetMap 検査アプリ",
-    "store_listing_full_description": "StreetComplete で OpenStreetMap の改善を手伝ってください!\n\nこのアプリは、あなたの周辺で不完全で拡張可能なデータを見つけて、それをマーカーとして地図に表示します。 サイトの情報を完成させるための簡単な質問に答えることで、そのそれぞれを解決することができます。\n\n入力した情報は、別のエディターを使わずに、あなたの名前で直接 OpenStreetMap に追加されます。",
-    "privacy_html_third_party_quest_sources": "<p>一部の探索ではサードパーティから追加のデータをダウンロードします。特に一方通行の探索では westnordost.de にホストされているAPIに一方通行の候補を問い合わせます。</p>",
-    "privacy_html_image_upload2": "<p>ノートに添付した写真は開発者のサーバにアップロードされ、ノートが解決すればその数日後に削除されます。写真のメタデータはアップロードの前に除去されます。</p>",
+    "store_listing_full_description": "StreetComplete で OpenStreetMap の改善を手伝ってください!\n\nこのアプリは、あなたの付近の不完全な地図データを見つけて、クエストとして地図に表示します。各クエストを解決するには、現地に足を運び、簡単な質問に答えてマップを更新する必要があります。\n\n入力した情報は、別のエディターを使わずに、あなたの名前で直接 OpenStreetMap に追加されます。",
+    "privacy_html_third_party_quest_sources": "<p>一部のクエストではサードパーティから追加のデータをダウンロードします。特に一方通行のクエストでは westnordost.de にホストされているAPIに一方通行の候補を問い合わせます。</p>",
+    "privacy_html_image_upload2": "<p>メモに添付した写真は開発者のサーバにアップロードされ、メモが解決されれば数日後に削除されます。写真のメタデータはアップロードの前に除去されます。</p>",
     "title_whats_new": "新着情報",
     "about_title_donate": "寄付",
+    "about_summary_donate": "感謝の気持ちを伝えましょう!❤️",
     "action_about2": "アプリについて",
     "privacy_html_statistics": "<p>あなたのプロフィールに表示されている情報は、OpenStreetMap に公開されているあなたの貢献の履歴から集められ、私のサーバから提供されています。</p>",
     "privacy_html_tileserver2": "<p>地図を表示するためにベクタータイルを %1$s から取得します。詳しくは %1$s の <a href=\"%2$s\">privacy statement</a> を参照してください。</p>",
     "about_title_translate": "アプリの翻訳を手伝う",
+    "about_title_faq": "FAQ",
+    "about_title_get_involved": "参加する",
     "urlconfig_scan_qr_code_again2": "アプリのインストール後、再度QRコードを読み取るか、<a href=\"%s\">このリンク</a>をクリックしてプリセットを適用して下さい。"
 }
