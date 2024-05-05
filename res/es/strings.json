@@ -15,5 +15,5 @@
     "about_title_translate": "Ayuda con la traducción",
     "about_title_faq": "Preguntas frecuentes",
     "about_title_get_involved": "Involúcrate",
-    "urlconfig_scan_qr_code_again2": "Después de instalar la aplicación, vuelva a escanear el código QR o haga clic en <a href=\"%s\">este enlace</a> para aplicar el ajuste preestablecido."
+    "urlconfig_scan_qr_code_again2": "Tras instalar la aplicación, escanea el código QR o haz clic en <a href=\"%s\">este enlace</a> para importar el preajuste compartido."
 }
