@@ -109,6 +109,13 @@ header("Vary: Accept-Language");
 	background-image: url("res/pixel6.webp");
 }
 
+#languages {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 8px;
+}
+
 .monochrome_icon {
 	fill: #000;
 }
@@ -119,8 +126,24 @@ header("Vary: Accept-Language");
 	}
 }
 </style>
+<script>
+function changeLanguage(lang) {
+	const url = new URL(window.location);
+	url.searchParams.set("lang", lang);
+	window.location = url.href;
+}
+</script>
 </head>
 <body>
+<select id="languages" onchange="changeLanguage(this.value)"><?php
+foreach ($supportedLanguages as $supportedLanguage) {
+	$displayLanguage = Locale::getDisplayName($supportedLanguage, $supportedLanguage);
+	if ($displayLanguage) {
+		$selected = $supportedLanguage == $language ? "selected" : "";
+		echo "	<option ".$selected." value=\"".$supportedLanguage."\">".$displayLanguage."</option>\n";
+	}
+}
+?></select>
 <div class="center">
 	<div id="intro">
 		<img src="res/favicon.svg" alt="App Icon">
