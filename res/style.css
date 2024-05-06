@@ -81,3 +81,7 @@ hr {
 		color: #6af;
 	}
 }
+
+img {
+	max-width:100%;
+}

@@ -120,8 +120,12 @@ header("Vary: Accept-Language");
 	display: none;
 }
 
-.monochrome_icon {
-	fill: #000;
+#download_buttons {
+	margin: 0 auto;
+	display: flex;
+	max-width: 646px;
+	flex-wrap: nowrap;
+	justify-content: center;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -129,6 +133,7 @@ header("Vary: Accept-Language");
 		fill: #fff;
 	}
 }
+
 </style>
 <script>
 function changeLanguage(lang) {
@@ -156,8 +161,8 @@ foreach ($supportedLanguages as $supportedLanguage) {
 		<img src="res/favicon.svg" alt="App Icon">
 		<h1>StreetComplete</h1>
 		<p class="subhead"><?php echo $strings["store_listing_short_description"]; ?></p>
-		<div>
-			<a aria-label="Google Play" href="https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"><img alt="Google Play Badge" src="res/google-play-badge.png" width="323" height="125"></a><a aria-label="F-Droid" href="https://f-droid.org/packages/de.westnordost.streetcomplete/"><img alt="F-Droid Badge" src="res/f-droid-badge.png" width="323" height="125"></a>
+		<div id="download_buttons">
+			<a aria-label="Google Play" href="https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"><img alt="Google Play Badge" src="res/google-play-badge.png"></a><a aria-label="F-Droid" href="https://f-droid.org/packages/de.westnordost.streetcomplete/"><img alt="F-Droid Badge" src="res/f-droid-badge.png"></a>
 		</div>
 		<?php 
 		if (str_starts_with($_SERVER["REQUEST_URI"], "/s?")) { 
