@@ -22,7 +22,7 @@ header("Vary: Accept-Language");
 #intro {
 	text-align: center;
 	margin-bottom: 32px;
-	margin-top: 32px;
+	margin-top: 48px;
 }
 
 #phone_and_description {
@@ -116,6 +116,10 @@ header("Vary: Accept-Language");
 	margin: 8px;
 }
 
+#language_select {
+	display: none;
+}
+
 .monochrome_icon {
 	fill: #000;
 }
@@ -132,10 +136,13 @@ function changeLanguage(lang) {
 	url.searchParams.set("lang", lang);
 	window.location = url.href;
 }
+function showLanguageSelector() {
+	document.getElementById("language_select").style.display = "inline";
+}
 </script>
 </head>
 <body>
-<select id="languages" onchange="changeLanguage(this.value)"><?php
+<div id="languages"><span style="cursor:pointer" onclick="showLanguageSelector()">🌐</span> <select id="language_select" onchange="changeLanguage(this.value)"><?php
 foreach ($supportedLanguages as $supportedLanguage) {
 	$displayLanguage = Locale::getDisplayName($supportedLanguage, $supportedLanguage);
 	if ($displayLanguage) {
@@ -143,7 +150,7 @@ foreach ($supportedLanguages as $supportedLanguage) {
 		echo "	<option ".$selected." value=\"".$supportedLanguage."\">".$displayLanguage."</option>\n";
 	}
 }
-?></select>
+?></select></div>
 <div class="center">
 	<div id="intro">
 		<img src="res/favicon.svg" alt="App Icon">
