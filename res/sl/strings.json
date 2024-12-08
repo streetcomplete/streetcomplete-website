@@ -3,8 +3,8 @@
     "about_title_privacy_statement": "Izjava o zasebnosti",
     "privacy_html": "<p>Ah, končno nekdo, ki mu je mar za zasebnost, lepo! Mislim, da imam zate samo dobre novice:</p>\n<h2>Neposredni prispevki</h2>\n<p>\nNajprej se zavedaj, da s to aplikacijo dejansko in neposredno prispevate k OpenStreetMap (OSM).<br/>\nVse, kar prispevate v tej aplikaciji, je neposredno dodano na OSM zemljevid, med aplikacijo in infrastrukturo OSM ni nobene tretje osebe.\n</p>\n<p>\nAnonimno urejanje OpenStreetMap ni mogoče. Vse spremembe, ki jih naredite (ter njihov datum in lokacija), so pripisane vašemu uporabniškemu računu OSM in javno vidne na spletni strani openstreetmap.org. Ker naj bi se StreetComplete uporabljal le za raziskovanje na kraju samem, to razkrije, kje in kdaj ste aplikacijo uporabljali.\n</p>\n\n<h2>Lokacija</h2>\n<p>\nAplikacija ne deli vaše GPS lokacije z nikomer. Uporablja se za samodejno iskanje in prenos nalog okoli vas ter za postavitev zemljevida na vašo lokacijo.\n</p>\n\n<h2>Uporaba podatkov</h2>\n<p>\nTa aplikacija neposredno komunicira s strežniki OSM.<br/>\nPreden naloži vaše spremembe, aplikacija preveri s <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\"> preprosto besedilno datoteko</a> na mojem strežniku, da zagotovi, da s to različico aplikacije ni prepovedano nalagati sprememb. To je previdnostni ukrep, da lahko različicam aplikacije, za katere se izkaže, da imajo kritične napake, preprečim nalaganje poškodovanih podatkov v OSM.</p>",
     "store_listing_short_description": "Aplikacija za OpenStreetMap kartografe",
-    "store_listing_full_description": "Pomagajte izboljšati OpenStreetMap zemljevide s StreetComplete!\n\nTa aplikacija poišče pomanjkljive podatke v vaši bližini in jih prikaže z oznakami na zemljevidu. Vsako pomanjkljivost je možno odpraviti z odgovori na nekaj enostavnih vprašanj.\n\nPodatki, ki jih vnesete tu, bodo dodani v OpenStreetMap v vašem imenu, brez potrebe po nadaljnem urejanju v drugih urejevalnikih.",
-    "privacy_html_third_party_quest_sources": "<p>Za nekatere naloge je potrebno prenesti dodatne podatke od ponudnikov tretje osebe.</p>",
+    "store_listing_full_description": "Pomagajte izboljšati OpenStreetMap zemljevide s StreetComplete!\n\nTa aplikacija najde manjkajoče podatke zemljevida v vaši bližini in jih prikaže na zemljevidu kot naloge. Rešite vsako nalogo tako, da obiščete lokacijo na mestu in odgovorite na preprosto vprašanje, da posodobite zemljevid.\n\nInformacije, ki jih vnesete, so neposredno dodane v OpenStreetMap v vašem imenu, ne da bi morali uporabiti drug urejevalnik.",
+    "privacy_html_third_party_quest_sources": "<p>Za nekatere naloge je potrebno prenesti dodatne podatke od tretjih ponudnikov.</p>",
     "privacy_html_image_upload2": "<p>Slike, ki jih dodate k opombam so naložene na razvijalčev strežnik in izbrisane nekaj dni po razrešitvi opombe. Njihovi metapodatki so izbrisani pred nalaganjem.</p>",
     "title_whats_new": "Kaj je novega? ",
     "about_title_donate": "Donacije",
@@ -15,5 +15,5 @@
     "about_title_translate": "Pomagaj prevesti to aplikacijo",
     "about_title_faq": "FAQ",
     "about_title_get_involved": "Pridruži se",
-    "urlconfig_scan_qr_code_again2": "Ko namestiš aplikacijo, skeniraj QR kodo ali sledi <a href=\"%s\">tej povezavi</a> da uveljaviš prednastavitev"
+    "urlconfig_scan_qr_code_again2": "Po namestitvi aplikacije, ponovno skeniraj QR kodo ali klikni na <a href=\"%s\">to povezavo,</a> da uveljaviš prednastavitev."
 }

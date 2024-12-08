@@ -1,0 +1,19 @@
+{
+    "about_title_repository": "Projektist",
+    "about_title_privacy_statement": "Privaatsus",
+    "privacy_html": "<p>Tore, et sa hoolid oma privaatsusest ja oled siin! Meil on sulle häid uudiseid:</p>\n<h2>Otsene kaastöö</h2>\n<p>\nEsmalt palun arvesta, et selle rakendusega teed OpenStreetMapile (edaspidi OSM) otsest ja tegelikku kaastööd.<br/>\nKõik, mis sa selle rakendusega lisad ja täiendad, satub otse kaardile - rakenduse ja OSMi taristu vahel pole ühtegi kolmandat osapoolt.\n</p>\n<p>\nOpenStreetMapi muutmine anonüümselt pole võimalik. Kõik sinu tehtud muudatused (ning nende kuupäev ja asukoht) tehakse sinu OSMi kasutajakontoga ja on avalikult nähtavad openstreetmap.org saidis. Kuna StreetComplete on mõeldud kasutamiseks vaid kohtvaatlusteks, siis saab alati olema selgelt näha, kus ja millal sa seda rakendust kasutasid. Sa võid oma privaatsust natuke parandada, kui laadid muudatused mitte reaalajas, vaid mõni aeg hiljem.\n</p>\n\n<h2>Asukoht</h2>\n<p>\nSee rakendus ei jaga sinu GPSi asukohta mitte ühegi osapoolega. Seda kasutatakse vaid sinu ümber asuvate andmete allalaadimiseks ning kaardi kuvamiseks sinu asukohas.\n</p>\n\n<h2>Andmekasutus</h2>\n<p>\nSee rakendus suhtleb otseselt OSMi serveritega.<br/>\nEnne muudatuste üleslaadimist rakendus kontrollib minu serveris seda <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">lihtsat tekstifaili</a> ja tuvastab, et rakenduse versioon ei ole keelatud versioonide loendis. Sellise ennetava kontrolli eesmärk on tagada võmalus blokeerida võimalike vigaste rakenduste versioonide kasutamine ja sellega välistada vigaste andmete üleslaadimine OSMi serveritesse.</p>",
+    "store_listing_short_description": "Rakendus OpenStreetMapi parandamiseks",
+    "store_listing_full_description": "Aita StreetComplete'i abil OpenStreetMapi täiendada!\n\nSee rakendus leiab sinu lähikonnast puuduvad kaardiandmed ja kuvab need kaardil ülesannetena. Neid ülesandeid saad lahendada konkreetse asukoha vaatlemisel ja lihtsatele küsimustele vastates ning sellega täiendad kaartdiandmeid.\n\nSinu sisestatud teave lisatakse sinu kasutajakonto nimel otse, ilma vahepealse toimetamiseta, OpenStreetMapi andmekogusse.",
+    "privacy_html_third_party_quest_sources": "<p>Mõnede ülesannete puhul laaditakse alla täiendavaid andmeid kolmandatelt osapooltelt.</p>",
+    "privacy_html_image_upload2": "<p>Märkusele lisatud foto laaditakse minu serverisse ja kustutatakse paar päeva peale märkuse lahendamist/sulgemist. Rakendus eemaldab enne üleslaadimist fotost kõik metainfo.</p>",
+    "title_whats_new": "Mida on uut?",
+    "about_title_donate": "Toeta meid rahaliselt",
+    "about_summary_donate": "Näita meile oma tunnustust! ❤️",
+    "action_about2": "Teave",
+    "privacy_html_statistics": "<p>Sinu profiilis näidatud andmed on koondatud sinu OpenStreetMapi kaastööde avalikult leitavast ajaloost ning see koond paikneb minu serveris.</p>",
+    "privacy_html_tileserver2": "<p>Kaardi joonistamiseks laaditakse vektorpaanid aadressilt %1$s. Lisateavet leiad nende <a href=\"%2$s\">privaatsuspoliitika dokumendist</a>.</p>",
+    "about_title_translate": "Tõlgi seda rakendust",
+    "about_title_faq": "KKK",
+    "about_title_get_involved": "Osale",
+    "urlconfig_scan_qr_code_again2": "Kui soovid sead eelseadistust uuesti kasutusele võtta, siis peale rakenduse paigaldamist skaneeri seda QR-koodi või klõpsi <a href=\"%s\">sead linki</a>."
+}
