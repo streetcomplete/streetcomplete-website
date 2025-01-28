@@ -6,7 +6,7 @@
 				<a href="https://github.com/streetcomplete/streetcomplete"><picture>
 					<source media="(prefers-color-scheme: dark)" srcset="res/logo_github_dark.svg">
 					<img style="float: left; margin-right: 4px;" width="20" height="20" src="res/logo_github.svg" alt="GitHub"></picture><?php echo $strings["about_title_repository"]; ?> (GitHub)</a>
-				<a href="https://slack.openstreetmap.us/app_redirect?channel=streetcomplete"><img style="float: left; margin-right: 4px;" width="20" height="20" src="res/logo_slack.svg" alt="Slack">#streetcomplete chat (Slack)</a>
+				<a href="https://slack.openstreetmap.us/"><img style="float: left; margin-right: 4px;" width="20" height="20" src="res/logo_slack.svg" alt="Slack">#streetcomplete chat (Slack)</a>
 				<a href="https://poeditor.com/join/project/IE4GC127Ki"><?php echo $strings["about_title_translate"]; ?></a>
 			</div>
 			<div class="linklist">
