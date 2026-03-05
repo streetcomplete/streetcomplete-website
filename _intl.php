@@ -45,9 +45,21 @@ function getStrings($language)
 	return json_decode(file_get_contents("res/".$language."/strings.json"), true);
 }
 
+function getDir($language)
+{
+	// and more... but we don't have translations for these anyway
+	$rtl = array("ar", "fa", "he", "ps", "ur", "yi");
+	if (in_array($language, $rtl)) {
+		return "rtl";
+	} else {
+		return "ltr";
+	}
+}
+
 $language = findPreferredSupportedLanguage();
 $supportedLanguages = getSupportedLanguages();
 $strings = getStrings($language);
+$dir = getDir($language);
 
 // fill missing strings in chosen language with default string from "en"
 if ($language != "en") {

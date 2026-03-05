@@ -3,7 +3,7 @@ require_once "_intl.php";
 header("Vary: Accept-Language");
 ?>
 <!DOCTYPE html>
-<html lang="<?php echo $language; ?>">
+<html dir="<?php echo $dir; ?>" lang="<?php echo $language; ?>">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -147,6 +147,7 @@ function showLanguageSelector() {
 </script>
 </head>
 <body>
+<script src="https://keepandroidopen.org/banner.js"></script>
 <div id="languages"><span style="cursor:pointer" onclick="showLanguageSelector()">🌐</span> <select id="language_select" onchange="changeLanguage(this.value)"><?php
 foreach ($supportedLanguages as $supportedLanguage) {
 	$displayLanguage = Locale::getDisplayName($supportedLanguage, $supportedLanguage);
