@@ -15,5 +15,5 @@
     "about_title_translate": "アプリの翻訳を手伝う",
     "about_title_faq": "FAQ",
     "about_title_get_involved": "参加する",
-    "urlconfig_scan_qr_code_again2": "アプリのインストール後、再度QRコードを読み取るか、<a href=\"%s\">このリンク</a>をクリックしてプリセットを適用して下さい。"
+    "urlconfig_scan_qr_code_again2": "アプリのインストール後、再度QRコードを読み取るか、<a href=\"%1$s\">このリンク</a>をクリックしてプリセットを適用して下さい。"
 }

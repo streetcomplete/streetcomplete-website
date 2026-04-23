@@ -15,5 +15,5 @@
     "about_title_translate": "Käännä tämä sovellus",
     "about_title_faq": "UKK",
     "about_title_get_involved": "Osallistu",
-    "urlconfig_scan_qr_code_again2": "Sovelluksen asennuksen jälkeen skannaa QR-koodi uudelleen tai napsauta <a href=\"%s\">tätä linkkiä</a> toteuttaaksesi esiasetuksen."
+    "urlconfig_scan_qr_code_again2": "Sovelluksen asennuksen jälkeen skannaa QR-koodi uudelleen tai napsauta <a href=\"%1$s\">tätä linkkiä</a> toteuttaaksesi esiasetuksen."
 }

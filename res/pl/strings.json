@@ -15,5 +15,5 @@
     "about_title_translate": "Pomóż w tłumaczeniu",
     "about_title_faq": "FAQ",
     "about_title_get_involved": "Zaangażuj się",
-    "urlconfig_scan_qr_code_again2": "Po zainstalowaniu aplikacji, zeskanuj kod QR ponownie albo kliknij <a href=\"%s\">ten link</a> aby zastosować zmiany."
+    "urlconfig_scan_qr_code_again2": "Po zainstalowaniu aplikacji, zeskanuj kod QR ponownie albo kliknij <a href=\"%1$s\">ten link</a> aby zastosować zmiany."
 }

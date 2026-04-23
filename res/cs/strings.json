@@ -15,5 +15,5 @@
     "about_title_translate": "Pomozte přeložit tuto aplikaci",
     "about_title_faq": "FAQ",
     "about_title_get_involved": "Zapojte se",
-    "urlconfig_scan_qr_code_again2": "Po instalaci aplikace znovu naskenujte QR kód nebo klikněte na <a href=\"%s\">tento odkaz</a> pro použití předvolby."
+    "urlconfig_scan_qr_code_again2": "Po instalaci aplikace znovu naskenujte QR kód nebo klikněte na <a href=\"%1$s\">tento odkaz</a> pro použití předvolby."
 }

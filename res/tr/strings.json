@@ -1,0 +1,19 @@
+{
+    "about_title_repository": "Projenin Ana Sayfası",
+    "about_title_privacy_statement": "Gizlilik beyanı",
+    "privacy_html": "<p> Ah, gizlilikle ilgilenen biri, hoş! Sanırım sana iyi haberlerim var: </p>\n<h2>Doğrudan Katkılar</h2>\n<Pp>\nİlk önce, bu uygulamanın OpenStreetMap'e gerçek ve doğrudan katkıda bulunduğunu anlayın. <br/>\nBu uygulamaya katkıda bulunmanız gereken herhangi bir şey doğrudan haritaya eklenir; uygulama ve OSM altyapısı arasında üçüncü taraf yok.\n</p>\n<p>\nOpenStreetMap'i anonim olarak düzenlemek mümkün değildir, bu nedenle yaptığınız değişiklikler OSM kullanıcı hesabınızla yapılır. Bu, değişikliklerin tarih, içerik ve dolaylı olarak yerinin openstreetmap web sitesinde herkese görünür olduğu ve hesabınıza atfedilebileceği anlamına gelir.\n</p>\n\n<h2>Yer</h2>\n<p>\nKonumunuz yalnızca etrafınızdaki görevleri otomatik olarak taramak için kullanılır. Endişelenmenize gerek yok, uygulama konumunuzu kendisi için saklar.\n</p>\n\n<h2>Veri Kullanımı</h2>\n<p>\nBahsedildiği gibi, uygulama OSM altyapısıyla doğrudan iletişim kuruyor. Bununla birlikte, değişikliklerinizi yüklemeden önce uygulama, sunucudaki <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\"> basit bir metin dosyası </a> ile yasaklanmış olup olmadığı kontrol eder. Herhangi bir değişiklik yüklüyor. Bu, kritik hataların OSM verilerini muhtemelen bozmasına neden olan uygulamaların sürümlerini muhafaza edebilmek için ihtiyati bir önlemdir. <br/>\n</p>",
+    "store_listing_short_description": "OpenStreetMap anketör uygulaması.",
+    "store_listing_full_description": "StreetComplete ile OpenStreetMap'ın geliştirilmesine yardımcı olun!\n\nBu uygulama, çevrenizdeki tamamlanmamış ve genişletilebilir verileri bulur ve harita üzerinde işaretler. Her birini oldukları yerleri ziyaret edip basit bir soruyu yanıtlayarak çözülebilir ve haritayı güncel tutabilirsiniz.\n\nGirdiğiniz bilgiler başka bir düzenleyici kullanmak zorunda kalmaksızın adınıza doğrudan OpenStreetMap'a eklenir.",
+    "privacy_html_third_party_quest_sources": "<p>Bazı görevler için, üçüncü partilerden daha fazla veri indirilir.</p>",
+    "privacy_html_image_upload2": "<p>Bir nota eklediğiniz fotoğraflar sunucuma yüklenir ve bu not çözüldükten birkaç gün sonra silinir. Yüklemeden önce meta verileri silinir.</p>",
+    "title_whats_new": "Yeni ne var?",
+    "about_title_donate": "Bağış yap",
+    "about_summary_donate": "Minnettarlığınızı gösterin! ❤️",
+    "action_about2": "Hakkında",
+    "privacy_html_statistics": "<p>Burada gösterilen veriler senin herkese açık OpenStreetMap katkı geçmişinden alınıp sunucumda tutulmaktadır.</p>",
+    "privacy_html_tileserver2": "<p>Haritayı görüntüleyebilmek için gerekli parçaları %1$s sağlamaktadır. Daha fazla bilgi için <a href=\"%2$s\">gizlilik politikalarına</a> göz atabilirsiniz.</p>",
+    "about_title_translate": "Bu uygulamayı çevirmemize yardımcı olun",
+    "about_title_faq": "S.S.S.",
+    "about_title_get_involved": "İşe el at",
+    "urlconfig_scan_qr_code_again2": "Uygulamayı yükledikten sonra ön ayarı uygulamak için QR kodu tekrar okut yahut <a href=\"%1$s\">bu linke</a> tıkla."
+}

@@ -1,0 +1,19 @@
+{
+    "about_title_repository": "Trang chủ dự án",
+    "about_title_privacy_statement": "Tuyên bố về quyền riêng tư",
+    "privacy_html": "<p>À, một người quan tâm đến quyền riêng tư, tuyệt quá! Tôi nghĩ tôi chỉ có tin tốt cho bạn:</p>\n<h2>Đóng góp trực tiếp</h2>\n<p>\nTrước hết, hãy hiểu rằng với ứng dụng này, bạn thực hiện những đóng góp thực tế và trực tiếp cho OpenStreetMap (OSM).<br/>\nBất kỳ thứ gì bạn đóng góp trong ứng dụng này đều được thêm trực tiếp vào bản đồ, không có bên thứ ba nào ở giữa ứng dụng và cơ sở hạ tầng OSM.\n</p>\n<p>\nBạn không thể chỉnh sửa OpenStreetMap ẩn danh. Bất kỳ thay đổi nào bạn thực hiện (cùng ngày và vị trí của chúng) đều được ghi nhận vào tài khoản OSM của bạn và hiển thị công khai trên trang web openstreetmap.org. Vì StreetComplete chỉ nên được sử dụng để khảo sát tại chỗ, điều này sẽ tiết lộ nơi và thời điểm bạn đã sử dụng ứng dụng.\n</p>\n\n<h2>Vị trí</h2>\n<p>\nỨng dụng không chia sẻ vị trí GPS của bạn với bất kỳ ai. Ứng dụng được sử dụng để tự động tải xuống dữ liệu xung quanh bạn và định vị bản đồ tại vị trí của bạn.\n</p>\n\n<h2>Sử dụng dữ liệu</h2>\n<p>\nỨng dụng này giao tiếp trực tiếp với máy chủ OSM.<br/>\nTrước khi tải lên các thay đổi của bạn, ứng dụng sẽ kiểm tra bằng <a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\">một tệp văn bản đơn giản</a> trên máy chủ của tôi để đảm bảo rằng phiên bản ứng dụng này không bị cấm tải lên các thay đổi. Đây là biện pháp phòng ngừa để có thể chặn các phiên bản ứng dụng có lỗi nghiêm trọng tải dữ liệu bị hỏng lên OSM.</p>",
+    "store_listing_short_description": "Ứng dụng khảo sát OpenStreetMap",
+    "store_listing_full_description": "Giúp cải thiện OpenStreetMap bằng StreetComplete!\n\nỨng dụng này tìm dữ liệu không hoàn chỉnh và có thể mở rộng được trong phạm vi của bạn và hiển thị nó trên bản đồ dưới dạng đánh dấu. Mỗi dấu có thể giải được bằng cách trả lời một câu hỏi đơn giản để hoàn thiện thông tin ở nơi đó.\n\nThông tin bạn nhập vào sau đó được thêm trực tiếp vào OpenStreetMap dưới tên của bạn, mà không cần dùng một trình chỉnh sửa khác.",
+    "privacy_html_third_party_quest_sources": "<p>Đối với một số nhiệm vụ, thông tin thêm từ các bên thứ ba sẽ được tải xuống.</p>",
+    "privacy_html_image_upload2": "<p>Những hình ảnh mà bạn gắn vào một ghi chú được upload lên server của chúng tôi và được xóa vài ngày sau khi ghi chú đó được giải quyết. Siêu dữ liệu (Metadata) của chúng sẽ được xóa trước khi upload.</p>",
+    "title_whats_new": "Có gì mới?",
+    "about_title_donate": "Quyên góp",
+    "about_summary_donate": "Bày tỏ sự cảm kích! ❤️",
+    "action_about2": "Giới thiệu",
+    "privacy_html_statistics": "<p>Dữ liệu hiển thị trong hồ sơ của bạn được tổng hợp từ lịch sử đóng góp công khai của bạn cho OpenStreetMap và sau đó được lưu trữ trên máy chủ của tôi.</p>",
+    "privacy_html_tileserver2": "<p>Để hiển thị bản đồ, các tile véc-tơ được lấy từ %1$s. Xem <a href=\"%2$s\">tuyên bố về quyền riêng tư</a> của chúng để biết thêm chi tiết.</p>",
+    "about_title_translate": "Giúp dịch ứng dụng này",
+    "about_title_faq": "FAQ (Câu hỏi thường gặp)",
+    "about_title_get_involved": "Tham gia",
+    "urlconfig_scan_qr_code_again2": "Sau khi tải ứng dụng, quét mã QR lại một lần nữa hoặc nhấn vào  <a href=\"%1$s\">đường link</a> này để áp dụng cài đặt trước."
+}

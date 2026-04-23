@@ -15,5 +15,5 @@
     "about_title_translate": "Palīdzi tulkot šo lietotni",
     "about_title_faq": "B.U.J.",
     "about_title_get_involved": "Iesaisties",
-    "urlconfig_scan_qr_code_again2": "Pēc lietotnes instalēšanas, atkal skenējiet QR kodu un spiediet <a href=\"%s\">šo saiti</a>, lai pielietotu priekšiestatījumu."
+    "urlconfig_scan_qr_code_again2": "Pēc lietotnes instalēšanas, atkal skenējiet QR kodu un spiediet <a href=\"%1$s\">šo saiti</a>, lai pielietotu priekšiestatījumu."
 }

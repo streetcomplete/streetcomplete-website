@@ -15,5 +15,5 @@
     "about_title_translate": "Ajută la traducerea acestei aplicații",
     "about_title_faq": "FAQ",
     "about_title_get_involved": "Implicați-vă",
-    "urlconfig_scan_qr_code_again2": "După instalarea aplicației, scanați codul QR din nou sau dați click <a href=\"%s\">aici</a> pentru a aplica preset-ul."
+    "urlconfig_scan_qr_code_again2": "După instalarea aplicației, scanați codul QR din nou sau dați click <a href=\"%1$s\">aici</a> pentru a aplica preset-ul."
 }

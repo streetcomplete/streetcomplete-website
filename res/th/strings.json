@@ -15,5 +15,5 @@
     "about_title_translate": "ช่วยแปลแอปนี้",
     "about_title_faq": "คำถามที่ถามบ่อย",
     "about_title_get_involved": "มีส่วนเกี่ยวข้อง",
-    "urlconfig_scan_qr_code_again2": "หลังจากติดตั้งแอปแล้ว ให้สแกน QR code อีกครั้ง หรือคลิก<a href=\"%s\">ลิงก์นี้</a>เพื่อใช้งานค่าที่ตั้งไว้"
+    "urlconfig_scan_qr_code_again2": "หลังจากติดตั้งแอปแล้ว ให้สแกน QR code อีกครั้ง หรือคลิก<a href=\"%1$s\">ลิงก์นี้</a>เพื่อใช้งานค่าที่ตั้งไว้"
 }

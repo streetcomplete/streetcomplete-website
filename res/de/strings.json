@@ -15,5 +15,5 @@
     "about_title_translate": "App übersetzen",
     "about_title_faq": "FAQ",
     "about_title_get_involved": "Mitmachen",
-    "urlconfig_scan_qr_code_again2": "Scanne nach der Installation der App den QR-Code erneut oder klicke <a href=\"%s\">diesen Link</a>, um die Voreinstellung zu übernehmen."
+    "urlconfig_scan_qr_code_again2": "Scanne nach der Installation der App den QR-Code erneut oder klicke <a href=\"%1$s\">diesen Link</a>, um die Voreinstellung zu übernehmen."
 }

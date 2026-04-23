@@ -15,5 +15,5 @@
     "about_title_translate": "幫忙翻譯這款 app",
     "about_title_faq": "常見問題",
     "about_title_get_involved": "參與其中",
-    "urlconfig_scan_qr_code_again2": "在安裝 app 之後，再掃一次條碼或是點一下  <a href=\"%s\">這個連結</a> 來套用預設組合。"
+    "urlconfig_scan_qr_code_again2": "在安裝 app 之後，再掃一次條碼或是點一下  <a href=\"%1$s\">這個連結</a> 來套用預設組合。"
 }

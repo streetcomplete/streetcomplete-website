@@ -15,5 +15,5 @@
     "about_title_translate": "Ajudeu a traduir aquesta aplicació",
     "about_title_faq": "PMF",
     "about_title_get_involved": "Involucra't",
-    "urlconfig_scan_qr_code_again2": "Després d'instal·lar l'aplicació, escaneja el QR una altra vegada o punxa <a href=\"%s\">aquest enllaç</a> per a aplicar la predefinició."
+    "urlconfig_scan_qr_code_again2": "Després d'instal·lar l'aplicació, escaneja el QR una altra vegada o punxa <a href=\"%1$s\">aquest enllaç</a> per a aplicar la predefinició."
 }

@@ -15,5 +15,5 @@
     "about_title_translate": "Översätt denna app",
     "about_title_faq": "FAQ",
     "about_title_get_involved": "Hjälp till",
-    "urlconfig_scan_qr_code_again2": "Efter att ha installerat appen, skanna QR-koden igen och tryck på <a href=\"%s\">den här länken</a> för att aktivera gruppen."
+    "urlconfig_scan_qr_code_again2": "Efter att ha installerat appen, skanna QR-koden igen och tryck på <a href=\"%1$s\">den här länken</a> för att aktivera gruppen."
 }

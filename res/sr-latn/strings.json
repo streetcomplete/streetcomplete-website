@@ -15,5 +15,5 @@
     "about_title_translate": "Pomozite u prevodu ovog programa",
     "about_title_faq": "Česta pitanja",
     "about_title_get_involved": "Uključite se",
-    "urlconfig_scan_qr_code_again2": "Nakon instaliranja aplikacije, ponovo očitajte QR kôd ili dodirnite <a href=\"%s\">ovu vezu</a> kako biste primenili predložak."
+    "urlconfig_scan_qr_code_again2": "Nakon instaliranja aplikacije, ponovo očitajte QR kôd ili dodirnite <a href=\"%1$s\">ovu vezu</a> kako biste primenili predložak."
 }

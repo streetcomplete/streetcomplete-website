@@ -15,5 +15,5 @@
     "about_title_translate": "Lagundu app hau itzultzen",
     "about_title_faq": "FAQ",
     "about_title_get_involved": "Parte hartu",
-    "urlconfig_scan_qr_code_again2": "Aplikazioa instalatu ondoren, eskaneatu QR kodea berriro edo egin klik <a href=\"%s\">esteka honetan</a> aurrez ezarpena aplikatzeko."
+    "urlconfig_scan_qr_code_again2": "Aplikazioa instalatu ondoren, eskaneatu QR kodea berriro edo egin klik <a href=\"%1$s\">esteka honetan</a> aurrez ezarpena aplikatzeko."
 }
