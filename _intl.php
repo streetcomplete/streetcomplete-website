@@ -2,7 +2,7 @@
 
 function getLanguageRequestParam()
 {
-	if (array_key_exists("lang", $_REQUEST)) return "?lang=".$_REQUEST["lang"];
+	if (array_key_exists("lang", $_REQUEST)) return "?lang=".urlencode($_REQUEST["lang"]);
 	else return "";
 }
 
