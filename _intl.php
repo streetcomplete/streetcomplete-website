@@ -42,7 +42,13 @@ function findPreferredSupportedLanguage()
 
 function getStrings($language)
 {
-	return json_decode(file_get_contents("res/".$language."/strings.json"), true);
+	$file = "res/".$language."/strings.json";
+	if (file_exists($file)) {
+		return json_decode(file_get_contents($file), true);
+	} else {
+		return null;
+	}
+
 }
 
 function getDir($language)
@@ -58,12 +64,12 @@ function getDir($language)
 
 $language = findPreferredSupportedLanguage();
 $supportedLanguages = getSupportedLanguages();
-$strings = getStrings($language);
+$stringsEn = getStrings("en");
+$strings = getStrings($language) ?? $stringsEn;
 $dir = getDir($language);
 
 // fill missing strings in chosen language with default string from "en"
 if ($language != "en") {
-	$stringsEn = getStrings("en");
 	foreach($stringsEn as $key => $string) {
 		if (!array_key_exists($key, $strings)) $strings[$key] = $string;
 	}

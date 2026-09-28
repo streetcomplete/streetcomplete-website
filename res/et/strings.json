@@ -11,7 +11,7 @@
     "about_summary_donate": "Näita meile oma tunnustust! ❤️",
     "action_about2": "Teave",
     "privacy_html_statistics": "<p>Sinu profiilis näidatud andmed on koondatud sinu OpenStreetMapi kaastööde avalikult leitavast ajaloost ning see koond paikneb minu serveris.</p>",
-    "privacy_html_tileserver2": "<p>Kaardi joonistamiseks laaditakse vektorpaanid aadressilt %1$s. Lisateavet leiad nende <a href=\"%2$s\">privaatsuspoliitika dokumendist</a>.</p>",
+    "privacy_html_tileserver2": "<p>Kaardi joonistamiseks laaditakse vektorpaanid aadressilt %1$s. Lisateavet leiad nende <a href=\"%2$s\">andmekaitsepõhimõtete dokumendist</a>.</p>",
     "about_title_translate": "Tõlgi seda rakendust",
     "about_title_faq": "KKK",
     "about_title_get_involved": "Osale",

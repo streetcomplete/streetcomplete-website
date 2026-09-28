@@ -128,6 +128,18 @@ header("Vary: Accept-Language");
 	justify-content: center;
 }
 
+#download_buttons a {
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#download_buttons img {
+	height: 80px;
+}
+
 @media (prefers-color-scheme: dark) {
 	.monochrome_icon {
 		fill: #fff;
@@ -163,7 +175,7 @@ foreach ($supportedLanguages as $supportedLanguage) {
 		<h1>StreetComplete</h1>
 		<p class="subhead"><?php echo $strings["store_listing_short_description"]; ?></p>
 		<div id="download_buttons">
-			<a aria-label="Google Play" href="https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"><img alt="Google Play Badge" src="res/google-play-badge.png"></a><a aria-label="F-Droid" href="https://f-droid.org/packages/de.westnordost.streetcomplete/"><img alt="F-Droid Badge" src="res/f-droid-badge.png"></a>
+			<a aria-label="Google Play" href="https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"><img alt="Google Play Badge" src="res/google-play-badge.svg"></a><a aria-label="F-Droid" href="https://f-droid.org/packages/de.westnordost.streetcomplete/"><img alt="F-Droid Badge" src="res/f-droid-badge.svg"></a><!--<a aria-label="Apple App Store" href="https://apps.apple.com/app/id6808344816"><img alt="Apple App Store Badge" src="res/app-store-badge.svg"></a>-->
 		</div>
 		<?php 
 		if (str_starts_with($_SERVER["REQUEST_URI"], "/s?")) { 
