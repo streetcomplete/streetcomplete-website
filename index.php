@@ -69,10 +69,10 @@ header("Vary: Accept-Language");
 
 #phone {
 	display: grid;
-	/* original dimensions (assuming dpi=3) * 80% (because the pixel 6 is just huge...) */
-	width: 322.4px;
-	height: 680.8px;
-	border-radius: 21px;
+	/* original dimensions (assuming dpi=4) * 80% (because the pixel 8 is just huge...) */
+	width: 70.8mm;
+	height: 150.5mm;
+	border-radius: 9mm;
 	box-shadow: 0 4px 8px 0 rgba(128, 128, 128, 0.6), 0 6px 20px 0 rgba(128, 128, 128, 0.6);
 }
 
@@ -86,10 +86,7 @@ header("Vary: Accept-Language");
 }
 
 #screenshots {
-	margin-top: 18px;
-	margin-bottom: 22px;
-	margin-left: 16px;
-	margin-right: 18px;
+	margin: 3mm;
 	overflow: hidden;
 	white-space: nowrap;
 }
@@ -106,7 +103,7 @@ header("Vary: Accept-Language");
 	margin: 0px;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: url("res/pixel6.webp");
+	background-image: url("res/pixel8.webp");
 }
 
 #languages {
@@ -192,7 +189,7 @@ foreach ($supportedLanguages as $supportedLanguage) {
 				<div id="screenshots">
 					<?php
 					function isScreenshot($var) {
-						return str_ends_with($var, ".webp"); 
+						return str_ends_with($var, ".png");
 					}
 					
 					$screenshotDir = "res/".$language;
